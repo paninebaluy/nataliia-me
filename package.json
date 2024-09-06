@@ -1,0 +1,22 @@
+{
+  "name": "nataliiame",
+  "version": "1.0.0",
+  "description": "nataliia.me website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve",
+    "dryrun": "npx @11ty/eleventy --dryrun",
+    "watch": "npx @11ty/eleventy --watch"
+  },
+  "author": "Natália Dolgushyna",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "devDependencies": {
+    "@11ty/eleventy-img": "^4.0.2",
+    "@11ty/eleventy-plugin-rss": "^2.0.2"
+  }
+}
