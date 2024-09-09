@@ -14,16 +14,20 @@ html {
     -moz-osx-font-smoothing: grayscale;
     --standard-width: 90%;
     --mobile-width: 100%;
+    --wide-width: 75%;
     --min-width: 400px;
+    --font-standard: 1em;
+    --font-mobile: 0.85em;
+    font-size: var(--font-standard)
 }
 
 .main {
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
     width: var(--standard-width);
     min-width: var(--min-width);
     margin: 30px auto;
-    padding: 50px 0;
     border: 1px solid blue;
 }
 
@@ -31,7 +35,7 @@ html {
     width: 50%;
     min-width: var(--min-width);
     border: 1px solid red;
-    margin: auto;
+    padding-bottom: 20px;
 }
 
 .main__heading {
@@ -45,31 +49,28 @@ html {
     padding: 0 5px;
 }
 
-
-aside {
+.main__aside {
     display: flex;
     border: 1px solid red;
     width: 30%;
     min-width: var(--min-width);
-    align-items: center;
     justify-content: center;
     align-items: center;
 }
 
 .animation {
     display: flex;
-    width: 100%;
     width: 400px;
-    border: 1px solid green;
     height: 300px;
+    border: 1px solid green;
     justify-content: center;
     align-items: center;
 }
 
 .outer_frame {
     display: flex;
-    width: 70%;
-    height: 150px;
+    width: 80%;
+    height: 80%;
     border: 2px solid black;
     align-items: center;
     justify-content: center;
@@ -77,8 +78,8 @@ aside {
 
 .middle_frame {
     display: flex;
-    width: 70%;
-    height: 100px;
+    width: 80%;
+    height: 80%;
     border: 2px solid blue;
     align-items: center;
     justify-content: center;
@@ -86,28 +87,53 @@ aside {
 
 .inner_frame {
     display: flex;
-    width: 70%;
-    height: 60%;
+    width: 80%;
+    height: 80%;
     border: 2px solid blue;
     align-items: center;
     justify-content: center;
 }
 
 .filled_square {
-    width: 70%;
-    height: 60%;
+    width: 80%;
+    height: 80%;
     background: black;
 }
 
-footer {
+.main__footer {
+    width: var(--standard-width);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.footer__list {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    width: 100%;
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-around;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+
+.footer__social {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
 }
 
 /* media queries */
 
+/* phones and tablets */
 @media only screen and (max-width: 768px) {
+
     .main {
         width: var(--mobile-width);
         flex-direction: column;
@@ -121,8 +147,27 @@ footer {
         width: var(--mobile-width);
     }
 
-    aside {
+    .main__aside {
         width: var(--mobile-width);
     }
-    
+
+    .main__footer {
+        width: var(--mobile-width);
+        font-size: var(--font-mobile);
+    }
+}
+
+/* wide screens */
+@media only screen and (min-width: 1500px) {
+    .main {
+        width: var(--wide-width);
+    }
+
+    .main__footer {
+        width: var(--wide-width);
+    }
+
+    .animation {
+        width: 750px;
+    }
 }
