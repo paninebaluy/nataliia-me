@@ -1,3 +1,22 @@
+@keyframes border {
+    0%   {border: 4px solid black;}
+    10%   {border: 2px solid black;}
+    20%   {border: 1px solid black;}
+    30%  {border: .5px solid black;}
+    40%  {border: none;}
+    50%  {border: none;}
+    60%  {border: none;}
+    70%  {border: .5px solid black;}
+    80%  {border: 1px solid black;}
+    90%  {border: 1.5px solid black;}
+    100% {border: 3px solid black;}
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
 @font-face {
     font-family: Cutive Mono;
     src: 
@@ -16,8 +35,8 @@ html {
     --mobile-width: 100%;
     --wide-width: 75%;
     --min-width: 400px;
-    --font-standard: 1em;
-    --font-mobile: 0.85em;
+    --font-standard: 1rem;
+    --font-mobile: 0.85rem;
     font-size: var(--font-standard)
 }
 
@@ -28,30 +47,27 @@ html {
     width: var(--standard-width);
     min-width: var(--min-width);
     margin: 30px auto;
-    border: 1px solid blue;
 }
 
 .main__container {
     width: 50%;
     min-width: var(--min-width);
-    border: 1px solid red;
     padding-bottom: 20px;
 }
 
 .main__heading {
     text-align: center;
-    font-size: 2.5em;
+    font-size: 2.5rem;
     margin: 1.5em auto;
 }
 
 .main__paragraph {
-    font-size: 1em;
+    font-size: 1rem;
     padding: 0 5px;
 }
 
 .main__aside {
     display: flex;
-    border: 1px solid red;
     width: 30%;
     min-width: var(--min-width);
     justify-content: center;
@@ -62,39 +78,91 @@ html {
     display: flex;
     width: 400px;
     height: 300px;
-    border: 1px solid green;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
 }
 
-.outer_frame {
+.fade-in-image {
+    position: relative;
+    top: 0;
+    width: 100%;
+    display: none;
+    opacity: 0%;
+    object-fit: cover;
+    transition: all 2s ease-in;
+}
+
+.outer-frame {
     display: flex;
     width: 80%;
     height: 80%;
     border: 2px solid black;
     align-items: center;
     justify-content: center;
+    animation-name: border;
+    animation-duration: 1s;
+    animation-delay: .4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
 }
 
-.middle_frame {
+.outer-frame:hover {
+    opacity: 100%;
+    animation: none;
+    border: none;
+}
+
+.outer-frame:hover .fade-in-image {
+    display: block;
+    animation-name: fadeIn;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+.outer-frame:hover > .middle-frame {
+    animation: none;
+    border: none;
+}
+
+.outer-frame:hover .inner-frame {
+    animation: none;
+    border: none;
+}
+
+.outer-frame:hover .filled-square {
+    background: none;
+}
+
+.middle-frame {
     display: flex;
     width: 80%;
     height: 80%;
-    border: 2px solid blue;
     align-items: center;
     justify-content: center;
+    border: 2px solid black;
+    animation-name: border;
+    animation-duration: 1s;
+    animation-delay: 0.2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
 }
 
-.inner_frame {
+.inner-frame {
     display: flex;
     width: 80%;
     height: 80%;
-    border: 2px solid blue;
+    border: 2px solid black;
     align-items: center;
     justify-content: center;
+    animation-name: border;
+    animation-duration: 1s;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
 }
 
-.filled_square {
+.filled-square {
     width: 80%;
     height: 80%;
     background: black;
@@ -129,6 +197,11 @@ html {
     margin: auto;
 }
 
+.footer__link {
+    color: black;
+    cursor: pointer;
+}
+
 /* media queries */
 
 /* phones and tablets */
@@ -140,7 +213,7 @@ html {
     }
 
     .main__heading {
-        font-size: 2em;
+        font-size: 2rem;
     }
 
     .main__container {
