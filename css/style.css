@@ -250,7 +250,7 @@ html {
 
 /* hovering on the list */
 
-main:has(.main__container:hover) .outer-frame {
+/* main:has(.main__container:hover) .outer-frame {
     animation: none;
     border: none;
 }
@@ -263,18 +263,16 @@ main:has(.main__container:hover) .middle-frame {
 main:has(.main__container:hover) .inner-frame {
     animation: none;
     border: none;
-}
+} */
 
 /* hovering on list items */
 
 main:has(#medium-pt:hover) .filled-square {
-    border: 15px solid black;
     background: url("../images/medium-pt.png") no-repeat;
     background-size: contain;
 }
 
 main:has(#medium-en:hover) .filled-square {
-    border: 15px solid black;
     background: url("../images/medium-en.png") no-repeat;
     background-size: contain;
 }
