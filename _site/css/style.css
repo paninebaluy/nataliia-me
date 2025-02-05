@@ -1,3 +1,6 @@
+* {
+}
+
 @keyframes border {
     0%   {border: 4px solid black;}
     10%  {border: 2px solid black;}
@@ -32,7 +35,7 @@ html {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     --standard-width: 90%;
-    --mobile-width: 100%;
+    --mobile-width: 95%;
     --wide-width: 75%;
     --min-width: 400px;
     --font-standard: 1rem;
@@ -43,7 +46,7 @@ html {
 .main {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     width: var(--standard-width);
     min-width: var(--min-width);
@@ -51,6 +54,10 @@ html {
 }
 
 .main__container {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: left;
     list-style-type: none;
     width: 50%;
     min-width: var(--min-width);
@@ -205,9 +212,18 @@ html {
     margin: 0;
     padding: 0;
     display: flex;
+    justify-self: center;
     justify-content: center;
     align-items: center;
     margin: auto;
+}
+
+.footer__social:first-of-type {
+    margin-left: 0;
+}
+
+.footer__social:last-of-type {
+    margin-right: 0;
 }
 
 .footer__link {
@@ -317,6 +333,7 @@ main:has(#sketch:hover) .filled-square__text {
 
     .main__container {
         width: var(--mobile-width);
+        font-size: var(--font-mobile);
     }
 
     .main__aside {
