@@ -3,18 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Animated Circle with Hands</title>
+    <title>Circle is me</title>
+    <link rel="stylesheet" href="/css/style.css">
     <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #f0f0f0;
-            overflow: hidden;
+
+        p {
+            position: absolute;
+            width: 400px;
+            height: 100px;
+            top: 50px;
+            left: 15%;
         }
         .character {
-            position: relative;
+            position: absolute;
+            top: 50%;
+            left: 50%;
             width: 100px;
             height: 100px;
             background: yellow;
@@ -47,7 +50,7 @@
             height: 30px;
             background: red;
             border-radius: 50%;
-            top: 50%;
+            top: 50vh;
             left: 50%;
             transform: translate(-50%, -50%);
             transition: left 0.3s ease-in-out, top 0.3s ease-in-out;
@@ -59,15 +62,38 @@
             left: 80%;
             top: 20%;
         }
+
+        .main__footer {
+            position: absolute;
+            width: 400px;
+            height: 100px;
+            top: 80vh;
+            left: 15%;
+        }
     </style>
 </head>
 <body>
-    <div class="container">
-        <div class="character">
-            <div class="hand left-hand"></div>
-            <div class="hand right-hand"></div>
+
+    <main class="main">
+
+        <div class="container">
+            <p>Hover or tap on the yellow circle to see an example of the worst day when everything I do gets taken away as unnecessary.</p>
         </div>
-        <div class="object"></div>
-    </div>
+        <div class="container">
+            <div class="character">
+                <div class="hand left-hand"></div>
+                <div class="hand right-hand"></div>
+            </div>
+            <div class="object"></div>
+        </div>
+    </main>
+
+    <footer class="main__footer">
+        <ul class="footer__list">
+            <li class="footer__social">
+                <a class="footer__link" href="../index.html">index</a>
+            </li>
+        </ul>
+    </footer>
 </body>
 </html>
