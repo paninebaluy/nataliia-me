@@ -303,6 +303,8 @@ main:has(#stories:hover) .filled-square__text {
 }
 
 main:has(#portfolio:hover) .filled-square__text {
+    background: url("../images/behance.png") no-repeat;
+    background-size: contain;
     visibility: visible;
 }
 
