@@ -315,8 +315,9 @@ main:has(#freyja:hover) .filled-square__text {
     visibility: visible;
 }
 
-main:has(#sketch:hover) .filled-square__text {
-    visibility: visible; 
+main:has(#sketch:hover) .filled-square {
+    background: url("../images/balcony.png") no-repeat;
+    background-size: contain;
 }
 
 /* touching frames */
