@@ -302,10 +302,9 @@ main:has(#stories:hover) .filled-square__text {
     visibility: visible;
 }
 
-main:has(#portfolio:hover) .filled-square__text {
+main:has(#portfolio:hover) .filled-square {
     background: url("../images/behance.png") no-repeat;
     background-size: contain;
-    visibility: visible;
 }
 
 main:has(#projects:hover) .filled-square__text {
