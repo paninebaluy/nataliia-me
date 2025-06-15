@@ -302,20 +302,23 @@ main:has(#stories:hover) .filled-square__text {
     visibility: visible;
 }
 
-main:has(#portfolio:hover) .filled-square__text {
-    visibility: visible;
+main:has(#freyja:hover) .filled-square {
+    background: url("../images/freyja.png") no-repeat;
+    background-size: contain;
+}
+
+main:has(#portfolio:hover) .filled-square {
+    background: url("../images/behance.png") no-repeat;
+    background-size: contain;
 }
 
 main:has(#projects:hover) .filled-square__text {
     visibility: visible;
 }
 
-main:has(#freyja:hover) .filled-square__text {
-    visibility: visible;
-}
-
-main:has(#sketch:hover) .filled-square__text {
-    visibility: visible; 
+main:has(#sketch:hover) .filled-square {
+    background: url("../images/balcony.png") no-repeat;
+    background-size: contain;
 }
 
 /* touching frames */
