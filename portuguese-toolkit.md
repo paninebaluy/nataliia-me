@@ -8,7 +8,7 @@ title: "The Portuguese Toolkit"
 ## Recent Posts
 
 <ul>
-{% for post in collections.blog %}
+{% for post in collections.toolkit %}
   <li>
     <p>{{ post.title }}</p>
     <a href="{{ post.url }}">{{ post.data.title }}</a><br />

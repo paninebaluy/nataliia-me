@@ -1,10 +1,89 @@
-<h1>Chipped Nails and NFCs</h1>
-<p>Date: Wed Jul 09 2025 17:00:00 GMT+0100 (Western European Summer Time)</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Chipped Nails and NFCs</title>
+
+  <style>
+    @font-face {
+      font-family: 'Cutive Mono';
+      src:
+        local("Cutive Mono"),
+        url("../vendor/fonts/Cutive_Mono/CutiveMono-Regular.woff2") format("woff2"),
+        url("../vendor/fonts/Cutive_Mono/CutiveMono-Regular.woff") format("woff"),
+        url("../vendor/fonts/Cutive_Mono/CutiveMono-Regular.ttf") format("truetype"),
+        url("../vendor/fonts/Cutive_Mono/CutiveMono-Regular.otf") format("opentype");
+      font-weight: normal;
+      font-style: normal;
+    }
+
+    body {
+      font-family: 'Cutive Mono', monospace;
+      margin: 0;
+      padding: 2rem;
+      background-color: #fff;
+      color: #222;
+      line-height: 1.6;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1rem 0;
+    }
+
+    figure {
+      margin: 2rem 0;
+      text-align: center;
+    }
+
+    figcaption {
+      font-size: 0.9em;
+      color: #666;
+      margin-top: 0.5rem;
+    }
+
+    main {
+      max-width: 800px;
+      margin: auto;
+    }
+
+  </style>
+
+  <script>
+    // open all links in new tabs (except anchor and relative links)
+    document.addEventListener('DOMContentLoaded', () => {
+      document.querySelectorAll('a[href]').forEach(link => {
+        const href = link.getAttribute('href');
+        if (
+          href.startsWith('http') &&
+          !href.startsWith(window.location.origin)
+        ) {
+          link.setAttribute('target', '_blank');
+          link.setAttribute('rel', 'noopener noreferrer');
+        }
+      });
+    });
+  </script>
+
+</head>
+<body>
+  <main>
+    <h1>Chipped Nails and NFCs</h1>
+<p><strong>Date: Wed Jul 09 2025 17:00:00 GMT+0100 (Western European Summer Time)</strong></p>
 <p>I was bone-tired at the second day of the NFC Summit and wanted to sit down wherever. It's been a difficult week, and I got out of the habit of socializing that much while spending all the time on my feet.</p>
 <p>So I sat down in front of the Alpha stage and hoped for the best. The next speaker turned out to be Florence Vuong, COO of Chipped, stepped up to talk about how to build Web3-powered real-world consumer products that people want to use.</p>
 <p>She spoke about press-on nails. I couldn't believe the audacity of it: among all the complex hard-to-understand tech and visually challenging art where women struggle to become visible, bringing something as banal and stereotypically girly as press-on nails?</p>
 <p>It was amazing. I was hooked. Or maybe nailed, but in an acrylic sense.</p>
-<p><img src="./images/chipped-nails.png" alt="The Devil Works Hard blood-red nail set on the Chipped Social website"></p>
+<figure>
+  <img src="../../images/chipped-nails.png" alt="The Devil Works Hard blood-red nail set on the Chipped Social website">
+  <figcaption>
+    The Devil Works Hard blood-red nail set on the Chipped Social website
+  </figcaption>
+</figure>
 <p>Here is the essence of the product:</p>
 <ol>
 <li>You glue press-on nails over your own.</li>
@@ -25,14 +104,26 @@
 </blockquote>
 <p>CEO of Chipped Social, Leah Winberg, nicknamed Winny, said in her <a href="https://www.youtube.com/watch?v=qGeIKndmGZE&amp;ab_channel=Rehash%3AAWeb3Podcast">interview to Rehash</a> that crypto is too often associated with scam. When most people hear &quot;crypto&quot;, they automaticaly assume it's something fraudulent. So she wanted to do something fun that could also onboard ordinary people to Web3 without them realizing it.</p>
 <p>Her solution was to put the blockchain part into the back-end. Good idea, right? People interact with pretty nails and a nice user interface in the app and never suspect anything Web3-related.</p>
-<p>According to the <a href="https://chippedsocial.com/pages/app-privacy-policy">privacy policy</a> of Chipped Social, it uses blockchain to store user data. However, I haven't heard or read Winny ever mentioning what kind of blockchain they use. I found her company in the <a href="https://polygon.technology/grants/grantees">list of Polygon grantees</a>, so Polygon is a pretty good bet. If they used it, that would make total sense: it's an L2 network built on top of Ethereum that has significantly lower fees and uses plasma sidechains to scale computation. An important feature of Polygon is that it prioritizes security — a necessity for storing user data.
-<img src="./images/chipped-polygon.png" alt="Chipped Social on the list of Polygon grantees. Source: https://polygon.technology/grants/grantees"></p>
+<p>According to the <a href="https://chippedsocial.com/pages/app-privacy-policy">privacy policy</a> of Chipped Social, it uses blockchain to store user data. However, I haven't heard or read Winny ever mentioning what kind of blockchain they use. I found her company in the <a href="https://polygon.technology/grants/grantees">list of Polygon grantees</a>, so Polygon is a pretty good bet. If they used it, that would make total sense: it's an L2 network built on top of Ethereum that has significantly lower fees and uses plasma sidechains to scale computation. An important feature of Polygon is that it prioritizes security — a necessity for storing user data.</p>
+<figure>
+  <img src="../../images/chipped-polygon.png" alt="Chipped Social on the list of Polygon grantees">
+  <figcaption>
+    Chipped Social on the list of Polygon grantees. Source:
+    <a href="https://polygon.technology/grants/grantees" target="_blank">https://polygon.technology/grants/grantees</a>
+  </figcaption>
+</figure>
 <h2>What's in it For the User?</h2>
 <p>Using Polygon as a back-end solution provides a sustainable, inexpensive and secure way to store and interact with user data. It's a good way to comply with GDPR and other privacy regulations as well as guarantee data safety for the users.</p>
 <p>Polygon is known for its fast transaction speeds and low transaction costs, all of which contributes to the overall UX of the app and to the cost of the product.</p>
 <p>The product is as simple as it can get: pretty nails and an app to update your business card. No AI, no gestures, nothing extra, no fuss, and that is a choice of principle for Winny. Nails are high-quality and reusable, which means you'll only need a new set in case you want a different design.</p>
 <h2>How it All Started</h2>
-<p><a href="https://pbs.twimg.com/media/Gu7uhQ-WoAAhURN?format=jpg&amp;name=large">Leah Winberg at GRWM event. Source: https://x.com/chippedsocial/status/1940750750940115342</a></p>
+<figure>
+  <img src="https://pbs.twimg.com/media/Gu7uhQ-WoAAhURN?format=jpg&name=large" alt="Leah Winberg at GRWM event">
+  <figcaption>
+    Leah Winberg at GRWM event. Source: 
+    <a href="https://x.com/chippedsocial/status/1940750750940115342">x.com/chippedsocial</a>
+  </figcaption>
+</figure>
 <p>Leah Winberg is a Master of Science from the University of Southhampton who already had several years of experience in Web3, having been a co-founder of SHILLR and a partnerships manager at Figuregot. She fell on some hard times and started doing her own acrylic nails to sell on the internet. Then, just for fun, she ordered NFC chips and implemented them into the nails.</p>
 <p>So she tried it out herself with a nail instead of a payment card — and loved the fun of the interaction and people's reaction. Development of the actual physical product took some iterations, and currently Chipped Social has a limited range of press-on nails of different length and designs, some of which were developed in cooperation with Siannie Quartero, marketing strategist and designer. Each set has a choice of three different sizes.</p>
 <h2>Final Thoughts</h2>
@@ -45,3 +136,7 @@
 <li><a href="https://www.instagram.com/chippedsocial/">Instagram</a></li>
 <li><a href="https://x.com/chippedsocial">Twitter</a></li>
 </ul>
+
+  </main>
+</body>
+</html>

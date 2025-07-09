@@ -1,4 +1,5 @@
 ---
+layout: layouts/base.njk
 title: "Chipped Nails and NFCs"
 date: 2025-07-09T16:00:00
 tags: blockerettes
@@ -6,7 +7,7 @@ permalink: "/blockerettes/{{ title | slug }}/"
 ---
 
 # {{title}}
-Date: {{date}}
+**Date: {{date}}**
 
 I was bone-tired at the second day of the NFC Summit and wanted to sit down wherever. It's been a difficult week, and I got out of the habit of socializing that much while spending all the time on my feet.
 
@@ -16,7 +17,12 @@ She spoke about press-on nails. I couldn't believe the audacity of it: among all
 
 It was amazing. I was hooked. Or maybe nailed, but in an acrylic sense.
 
-![The Devil Works Hard blood-red nail set on the Chipped Social website](./images/chipped-nails.png)
+<figure>
+  <img src="../../images/chipped-nails.png" alt="The Devil Works Hard blood-red nail set on the Chipped Social website">
+  <figcaption>
+    The Devil Works Hard blood-red nail set on the Chipped Social website
+  </figcaption>
+</figure>
 
 Here is the essence of the product: 
 
@@ -47,7 +53,14 @@ CEO of Chipped Social, Leah Winberg, nicknamed Winny, said in her [interview to 
 Her solution was to put the blockchain part into the back-end. Good idea, right? People interact with pretty nails and a nice user interface in the app and never suspect anything Web3-related.
 
 According to the [privacy policy](https://chippedsocial.com/pages/app-privacy-policy) of Chipped Social, it uses blockchain to store user data. However, I haven't heard or read Winny ever mentioning what kind of blockchain they use. I found her company in the [list of Polygon grantees](https://polygon.technology/grants/grantees), so Polygon is a pretty good bet. If they used it, that would make total sense: it's an L2 network built on top of Ethereum that has significantly lower fees and uses plasma sidechains to scale computation. An important feature of Polygon is that it prioritizes security — a necessity for storing user data. 
-![Chipped Social on the list of Polygon grantees. Source: https://polygon.technology/grants/grantees](./images/chipped-polygon.png)
+
+<figure>
+  <img src="../../images/chipped-polygon.png" alt="Chipped Social on the list of Polygon grantees">
+  <figcaption>
+    Chipped Social on the list of Polygon grantees. Source:
+    <a href="https://polygon.technology/grants/grantees" target="_blank">https://polygon.technology/grants/grantees</a>
+  </figcaption>
+</figure>
 
 ## What's in it For the User?
 
@@ -59,7 +72,13 @@ The product is as simple as it can get: pretty nails and an app to update your b
 
 ## How it All Started
 
-[Leah Winberg at GRWM event. Source: https://x.com/chippedsocial/status/1940750750940115342](https://pbs.twimg.com/media/Gu7uhQ-WoAAhURN?format=jpg&name=large)
+<figure>
+  <img src="https://pbs.twimg.com/media/Gu7uhQ-WoAAhURN?format=jpg&name=large" alt="Leah Winberg at GRWM event">
+  <figcaption>
+    Leah Winberg at GRWM event. Source: 
+    <a href="https://x.com/chippedsocial/status/1940750750940115342">x.com/chippedsocial</a>
+  </figcaption>
+</figure>
 
 Leah Winberg is a Master of Science from the University of Southhampton who already had several years of experience in Web3, having been a co-founder of SHILLR and a partnerships manager at Figuregot. She fell on some hard times and started doing her own acrylic nails to sell on the internet. Then, just for fun, she ordered NFC chips and implemented them into the nails. 
 

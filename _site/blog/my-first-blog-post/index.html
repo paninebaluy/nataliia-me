@@ -1,3 +1,81 @@
-<h1>My First Blog Post</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>My First Blog Post</title>
+
+  <style>
+    @font-face {
+      font-family: 'Cutive Mono';
+      src:
+        local("Cutive Mono"),
+        url("../vendor/fonts/Cutive_Mono/CutiveMono-Regular.woff2") format("woff2"),
+        url("../vendor/fonts/Cutive_Mono/CutiveMono-Regular.woff") format("woff"),
+        url("../vendor/fonts/Cutive_Mono/CutiveMono-Regular.ttf") format("truetype"),
+        url("../vendor/fonts/Cutive_Mono/CutiveMono-Regular.otf") format("opentype");
+      font-weight: normal;
+      font-style: normal;
+    }
+
+    body {
+      font-family: 'Cutive Mono', monospace;
+      margin: 0;
+      padding: 2rem;
+      background-color: #fff;
+      color: #222;
+      line-height: 1.6;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1rem 0;
+    }
+
+    figure {
+      margin: 2rem 0;
+      text-align: center;
+    }
+
+    figcaption {
+      font-size: 0.9em;
+      color: #666;
+      margin-top: 0.5rem;
+    }
+
+    main {
+      max-width: 800px;
+      margin: auto;
+    }
+
+  </style>
+
+  <script>
+    // open all links in new tabs (except anchor and relative links)
+    document.addEventListener('DOMContentLoaded', () => {
+      document.querySelectorAll('a[href]').forEach(link => {
+        const href = link.getAttribute('href');
+        if (
+          href.startsWith('http') &&
+          !href.startsWith(window.location.origin)
+        ) {
+          link.setAttribute('target', '_blank');
+          link.setAttribute('rel', 'noopener noreferrer');
+        }
+      });
+    });
+  </script>
+
+</head>
+<body>
+  <main>
+    <h1>My First Blog Post</h1>
 <p>Date: Thu Jun 26 2025 11:30:00 GMT+0100 (Western European Summer Time)</p>
 <p>Welcome to my new blog! This post has both a date and a time.</p>
+
+  </main>
+</body>
+</html>
