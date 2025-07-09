@@ -19,5 +19,6 @@ title: "The Portuguese Toolkit"
 
 ## Socials
 
-[Medium]https://medium.com/@portuguese-toolkit
-[Instagram]https://www.instagram.com/portuguese_toolkit/
+- [Medium](https://medium.com/@portuguese-toolkit)
+
+- [Instagram](https://www.instagram.com/portuguese_toolkit/)
