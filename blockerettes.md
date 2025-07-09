@@ -19,4 +19,4 @@ title: "The Blockerettes"
 
 ## Socials
 
-[Medium](https://medium.com/@portuguese-toolkit)
+[Substack](https://substack.com/@blockerette)
