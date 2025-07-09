@@ -48,11 +48,11 @@ In the Chipped nails, NFC chips come pre-installed in the thumbs. They allow the
 > “Make everything pink and fun enough that people don't realize there's anything crypto in it”. — Leah Winberg.
 > 
 
-CEO of Chipped Social, Leah Winberg, nicknamed Winny, said in her [interview to Rehash](https://www.youtube.com/watch?v=qGeIKndmGZE&ab_channel=Rehash%3AAWeb3Podcast) that crypto is too often associated with scam. When most people hear "crypto", they automaticaly assume it's something fraudulent. So she wanted to do something fun that could also onboard ordinary people to Web3 without them realizing it. 
+CEO of Chipped Social, Leah Winberg, nicknamed Winny, said in her [interview to Rehash](https://www.youtube.com/watch?v=qGeIKndmGZE&ab_channel=Rehash%3AAWeb3Podcast) that crypto is too often associated with scam. When most people hear "crypto", they automatically assume it's something fraudulent. So she wanted to do something fun that could also onboard ordinary people to Web3 without them realizing it. 
 
 Her solution was to put the blockchain part into the back-end. Good idea, right? People interact with pretty nails and a nice user interface in the app and never suspect anything Web3-related.
 
-According to the [privacy policy](https://chippedsocial.com/pages/app-privacy-policy) of Chipped Social, it uses blockchain to store user data. However, I haven't heard or read Winny ever mentioning what kind of blockchain they use. I found her company in the [list of Polygon grantees](https://polygon.technology/grants/grantees), so Polygon is a pretty good bet. If they used it, that would make total sense: it's an L2 network built on top of Ethereum that has significantly lower fees and uses plasma sidechains to scale computation. An important feature of Polygon is that it prioritizes security — a necessity for storing user data. 
+According to the [privacy policy](https://chippedsocial.com/pages/app-privacy-policy) of Chipped Social, it uses blockchain to store user data. However, I haven't heard or read Winny ever mention what kind of blockchain they use. I found her company in the [list of Polygon grantees](https://polygon.technology/grants/grantees), so Polygon is a pretty good bet. If they used it, that would make total sense: it's an L2 network built on top of Ethereum that has significantly lower fees and uses plasma sidechains to scale computation. An important feature of Polygon is that it prioritizes security, a necessity for storing user data. 
 
 <figure>
   <img src="../../images/chipped-polygon.png" alt="Chipped Social on the list of Polygon grantees">
@@ -64,9 +64,9 @@ According to the [privacy policy](https://chippedsocial.com/pages/app-privacy-po
 
 ## What's in it For the User?
 
-Using Polygon as a back-end solution provides a sustainable, inexpensive and secure way to store and interact with user data. It's a good way to comply with GDPR and other privacy regulations as well as guarantee data safety for the users. 
+Using Polygon as a back-end solution provides a sustainable, inexpensive, and secure way to store and interact with user data. It's a good way to comply with GDPR and other privacy regulations, as well as guarantee data safety for users. 
 
-Polygon is known for its fast transaction speeds and low transaction costs, all of which contributes to the overall UX of the app and to the cost of the product.
+Polygon is known for its fast transaction speeds and low transaction costs, all of which contribute to the overall UX of the app and to the cost of the product.
 
 The product is as simple as it can get: pretty nails and an app to update your business card. No AI, no gestures, nothing extra, no fuss, and that is a choice of principle for Winny. Nails are high-quality and reusable, which means you'll only need a new set in case you want a different design. 
 
@@ -88,7 +88,7 @@ So she tried it out herself with a nail instead of a payment card — and loved 
 
 The product itself is wonderful. It's pretty, easy to use, easy to understand, and accessible to anyone willing to wear press-on nails. It's also obviously scalable to other wearable tech: I recall the COO of the company talking about their plans to cover the pet accessory market.
 
-However, the goal behind Chipped Social that considers onboarding people to Web3 sounds difficult to impossible to achieve, since people don't really care about which back end their product runs on — it's like onboarding Web users to nginx, which they definitely use, but usually have no idea about.
+However, the goal behind Chipped Social, which is to onboard people to Web3, sounds difficult to impossible to achieve, since people don't really care about which back end their product runs on — it's like onboarding Web users to nginx, which they definitely use, but usually have no idea about.
 
 Overall, it's a great and actually useful product that boasts additional security as well as sustainability. I admire how Winny stands behind the decision to keep things simple and knows exactly what her audience wants. We need more products like this one in the Web3 wearables market.
 
