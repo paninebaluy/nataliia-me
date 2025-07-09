@@ -9,11 +9,11 @@ permalink: "/blockerettes/{{ title | slug }}/"
 # {{title}}
 **Date: {{date}}**
 
-I was bone-tired at the second day of the NFC Summit and wanted to sit down wherever. It's been a difficult week, and I got out of the habit of socializing that much while spending all the time on my feet.
+I was bone-tired on the second day of the NFC Summit and wanted to sit down wherever. It's been a difficult week, and I got out of the habit of socializing that much while spending all the time on my feet.
 
-So I sat down in front of the Alpha stage and hoped for the best. The next speaker turned out to be Florence Vuong, COO of Chipped, stepped up to talk about how to build Web3-powered real-world consumer products that people want to use.
+So I sat down in front of the Alpha stage and hoped for the best. The next speaker turned out to be Florence Vuong, COO of Chipped Social, who stepped up to talk about how to build Web3-powered real-world consumer products that people want to use.
 
-She spoke about press-on nails. I couldn't believe the audacity of it: among all the complex hard-to-understand tech and visually challenging art where women struggle to become visible, bringing something as banal and stereotypically girly as press-on nails?
+She spoke about press-on nails. I couldn't believe the audacity of it: among all the complex, hard-to-understand tech and visually challenging art where women struggle to become visible, bringing something as banal and stereotypically girly as press-on nails?
 
 It was amazing. I was hooked. Or maybe nailed, but in an acrylic sense.
 
