@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: layouts/post-bl.njk
 title: "Chipped Nails and NFCs"
 date: 2025-07-09T16:00:00
 tags: blockerettes

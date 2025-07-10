@@ -19,9 +19,30 @@
       font-style: normal;
     }
 
+    @font-face {
+      font-family: 'Cutive Regular';
+      src:
+        local("Cutive Regular"),
+        url("../vendor/fonts/Cutive/Cutive-Regular.woff2") format("woff2"),
+        url("../vendor/fonts/Cutive/Cutive-Regular.woff") format("woff"),
+        url("../vendor/fonts/Cutive/Cutive-Regular.ttf") format("truetype"),
+        url("../vendor/fonts/Cutive/Cutive-Regular.otf") format("opentype");
+      font-weight: normal;
+      font-style: normal;
+    }
+
     body {
-      font-family: 'Cutive Mono', monospace;
+      font-family: 'Cutive Regular', sans-serif;
       margin: 0;
+      padding: 2rem;
+      background-color: #fff;
+      color: #222;
+      line-height: 1.6;
+    }
+
+    nav {
+      font-family: 'Cutive Mono', monospace;
+      margin: 0 auto;
       padding: 2rem;
       background-color: #fff;
       color: #222;
@@ -71,6 +92,9 @@
 
 </head>
 <body>
+  <nav>
+    <a href="/">🏠 Home</a> | <a href="/blockerettes/">The Blockerettes</a>
+  </nav>
   <main>
     <h1>Chipped Nails and NFCs</h1>
 <p><strong>Date: Wed Jul 09 2025 17:00:00 GMT+0100 (Western European Summer Time)</strong></p>
@@ -138,5 +162,8 @@
 </ul>
 
   </main>
+  <nav>
+    <a href="/">🏠 Home</a> | <a href="/blockerettes/">The Blockerettes</a>
+  </nav>
 </body>
 </html>
