@@ -5,13 +5,11 @@ title: "Natália Dolgushyna's CV"
 
 # Natália Dolgushyna
 
-**Content Manager & Producer**  
-Praça da Pedra Verde, Porto, Portugal  
-📞 +351 910 578 369  
+Porto, Portugal  
 📧 [nataliia.dolgushyna@gmail.com](mailto:nataliia.dolgushyna@gmail.com)  
 🌐 [https://nataliia.me](https://nataliia.me)
 
-Content manager and producer with over 10 years of experience in educational content production, editing, SEO, and programming within fast-growing B2B SaaS startups and EdTech. Atlassian-certified and Web3-educated.
+Content manager, producer and project manager with over 10 years of experience in educational content production, editing, SEO, and programming within fast-growing B2B SaaS startups and EdTech. Atlassian-certified and Web3-educated.
 
 ---
 
@@ -30,34 +28,34 @@ Content manager and producer with over 10 years of experience in educational con
 
 ### **Educational Content Producer**  
 **Code for All** | Mar 2023 – Sep 2024  
-- Delivered company’s first Full-Stack Online Programming Course with stakeholders and SMEs  
-- Coordinated content creation across platforms: Antora, GitHub, GitHub Classroom  
-- Automated content workflows using GitHub  
-- Led internal documentation and process improvements
+- Delivered company’s first Full-Stack Online Programming Course with stakeholders and SMEs. 
+- Coordinated content creation across platforms: Antora, GitHub, GitHub Classroom.
+- Automated content workflows using GitHub.
+- Led internal documentation and process improvements.
 
 ### **Project Manager**  
 **Helping to Leave** | Oct 2022 – Feb 2023  
-- Coordinated humanitarian rescue operations, evacuating 200+ individuals  
-- Managed communication with local officials and volunteers
+- Coordinated humanitarian rescue operations, evacuating 200+ individuals.
+- Managed communication with local officials and volunteers.
 
 ### **Content Producer**  
 **Uploadcare** | Dec 2021 – Sep 2022  
-- Created 50+ product-focused content items: docs, guides, product pages  
-- Developed content guidelines and tested new product releases  
-- Collaborated cross-functionally with Product and Ops
+- Created 50+ product-focused content items: docs, guides, product pages.
+- Developed content guidelines and tested new product releases.
+- Collaborated cross-functionally with Product and Ops.
 
 ### **Production Team Lead**  
 **TripleTen** | Apr 2020 – Sep 2021  
-- Managed global remote team across 14 time zones  
-- Led the creation of a 10-month Web Development Curriculum  
-- Collaborated with cross-functional teams: Product, Design, LXD, Tech  
-- Optimized production processes and documentation
+- Managed global remote team across 14 time zones.
+- Led the creation of a 10-month Web Development Curriculum.
+- Collaborated with cross-functional teams: Product, Design, LXD, Tech.
+- Optimized production processes and documentation.
 
 ### **Project & Partner Relations Manager**  
 **Yandex, Yandex.Ukraine** | Feb 2010 – Jan 2020  
-- Led partner communication and internal tool implementation  
-- Analyzed complex problems, supported scaling, led user education  
-- Directed internal projects, seminars, and campaigns
+- Led partner communication and internal tool implementation.
+- Analyzed complex problems, supported scaling, led user education.
+- Directed internal projects, seminars, and campaigns.
 
 ---
 
@@ -98,8 +96,8 @@ Udemy | *2020*
 
 ## 🌍 Language Skills
 
-- **Ukrainian:** Native  
-- **Russian:** Native  
+- **Ukrainian:** Native   
 - **English:** C2  
 - **Portuguese:** C1  
 - **German:** B1
+- **Russian:** Native 
