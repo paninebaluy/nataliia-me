@@ -1,13 +1,13 @@
 ---
 layout: layouts/post-bl.njk
 title: "Chipped Nails and NFCs"
-date: 2025-07-09T16:00:00
+date: 2025-07-09T15:16:03
 tags: blockerettes
 permalink: "/blockerettes/{{ title | slug }}/"
 ---
 
 # {{title}}
-**Date: {{date}}**
+**Date: {{date | date("dd/MM/yyyy HH:mm:ss") }}**
 
 I was bone-tired on the second day of the NFC Summit and wanted to sit down wherever. It's been a difficult week, and I got out of the habit of socializing that much while spending all the time on my feet.
 

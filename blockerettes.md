@@ -7,7 +7,7 @@ title: "The Blockerettes"
 
 This is a blog about female leaders in Web3 and their projects exploring the way women do things is the field. 
 
-The name "Blockerettes" is a play on "bachelorettes", who do well just on their own. It's a collection of articles on innovation, bravery, vision and compassion. 
+The name "Blockerettes" is a wordplay on "bachelorettes", who do well just on their own. It's a collection of articles on innovation, bravery, vision and compassion. 
 
 ## Recent Posts
 
