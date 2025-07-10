@@ -43,6 +43,30 @@ html {
     font-size: var(--font-standard);
 }
 
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: left;
+    width: var(--standard-width);
+    min-width: var(--min-width);
+    margin: 30px auto;
+}
+
+.header__paragraph {
+    margin: 0.4rem 0;
+}
+
+.header__link {
+    text-decoration: none;
+    color: black;
+    transition: text-decoration 0.5s 1s linear;
+}
+
+.header:hover > .header__link {
+    text-decoration: underline;
+}
+
 .main {
     display: flex;
     flex-direction: row;
@@ -298,8 +322,9 @@ main:has(#me:hover) .filled-square__text {
     visibility: visible;
 }
 
-main:has(#stories:hover) .filled-square__text {
-    visibility: visible;
+main:has(#stories:hover) .filled-square {
+    background: url("../images/chipped-nails.png") no-repeat;
+    background-size: contain;
 }
 
 main:has(#freyja:hover) .filled-square {
