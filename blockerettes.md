@@ -12,7 +12,7 @@ The name "Blockerettes" is a wordplay on "bachelorettes", who do well just on th
 ## Recent Posts
 
 <ul>
-{% for post in collections.blockerettes %}
+{% for post in collections.blockerettes | reverse %}
   <li>
     <p>{{ post.title }}</p>
     <a href="{{ post.url }}">{{ post.data.title }}</a><br />
