@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>RTP Play Movies for All</title>
+
+  <style>
+    @font-face {
+      font-family: 'Cutive Mono';
+      src:
+        local("Cutive Mono"),
+        url("../vendor/fonts/Cutive_Mono/CutiveMono-Regular.woff2") format("woff2"),
+        url("../vendor/fonts/Cutive_Mono/CutiveMono-Regular.woff") format("woff"),
+        url("../vendor/fonts/Cutive_Mono/CutiveMono-Regular.ttf") format("truetype"),
+        url("../vendor/fonts/Cutive_Mono/CutiveMono-Regular.otf") format("opentype");
+      font-weight: normal;
+      font-style: normal;
+    }
+
+    @font-face {
+      font-family: 'Cutive Regular';
+      src:
+        local("Cutive Regular"),
+        url("../vendor/fonts/Cutive/Cutive-Regular.woff2") format("woff2"),
+        url("../vendor/fonts/Cutive/Cutive-Regular.woff") format("woff"),
+        url("../vendor/fonts/Cutive/Cutive-Regular.ttf") format("truetype"),
+        url("../vendor/fonts/Cutive/Cutive-Regular.otf") format("opentype");
+      font-weight: normal;
+      font-style: normal;
+    }
+
+    body {
+      font-family: 'Cutive Regular', sans-serif;
+      margin: 0;
+      padding: 2rem;
+      background-color: #fff;
+      color: #222;
+      line-height: 1.6;
+    }
+
+    nav {
+      font-family: 'Cutive Mono', monospace;
+      margin: 0;
+      padding: 2rem;
+      background-color: #fff;
+      color: #222;
+      line-height: 1.6;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1rem 0;
+    }
+
+    figure {
+      margin: 2rem 0;
+      text-align: center;
+    }
+
+    figcaption {
+      font-size: 0.9em;
+      color: #666;
+      margin-top: 0.5rem;
+    }
+
+    main {
+      max-width: 800px;
+      margin: auto;
+    }
+
+  </style>
+
+  <script>
+    // open all links in new tabs (except anchor and relative links)
+    document.addEventListener('DOMContentLoaded', () => {
+      document.querySelectorAll('a[href]').forEach(link => {
+        const href = link.getAttribute('href');
+        if (
+          href.startsWith('http') &&
+          !href.startsWith(window.location.origin)
+        ) {
+          link.setAttribute('target', '_blank');
+          link.setAttribute('rel', 'noopener noreferrer');
+        }
+      });
+    });
+  </script>
+
+</head>
+<body>
+  <nav>
+    <a href="/">🏠 Home</a> | <a href="/portuguese-toolkit/">The Portuguese Toolkit</a>
+  </nav>
+  <main>
+    <h1>RTP Play Movies for All</h1>
+<p><strong>Date: 05/03/2024 00:08:49</strong></p>
+<p>#useful #cheap</p>
+<h2>RTP Play</h2>
+<p>Rádio e Televisão de Portugal (RTP) has an absolutely free service with movies, TV series, and shows. The list of movies and series is not constant, as it depends on the licenses, copyright, and blahblah.</p>
+<p>I personally prefer to watch documentaries there.</p>
+<p>Of course, everything has Portuguese subtitles, but many movies and shows are available in English (if they were shot with an English voiceover originally).</p>
+<p>Here are some recommendations, depending on my absolutely inexpert evaluation of your level of Portuguese:</p>
+<h3>Level 1: No words, just plain train ASMR</h3>
+<p><a href="https://www.rtp.pt/play/p12615/linha-do-douro-um-patrimonio-sobre-carris">https://www.rtp.pt/play/p12615/linha-do-douro-um-patrimonio-sobre-carris</a></p>
+<h3>Level 2: Portugal de… Patricia de Melo Moreira</h3>
+<p>A movie about a female photojournalist who became famous for this grim photo report about a fire in Pedrógão Grande in summer of 2017 that killed 64 people.</p>
+<p><a href="https://www.rtp.pt/play/p12233/e725353/portugal-de">https://www.rtp.pt/play/p12233/e725353/portugal-de</a></p>
+<h3>Level 3: Portunhol</h3>
+<p>There are seven glorious and breathtakingly beautiful episodes about people living on the borders of Portugal and Spain, as well as their customs and language (or, I should say, languages, because every region has its own version of portunhol).</p>
+<p><a href="https://www.rtp.pt/play/p12377/portunhol">https://www.rtp.pt/play/p12377/portunhol</a></p>
+<h3>Level 4: O pimba é nosso</h3>
+<p>At this level, you are probably ready for the fun, ugly, beautiful, and stupidly fun world of pimba, its double meanings, and its naive world of popular people’s music.</p>
+<p><a href="https://www.rtp.pt/play/palco/p9117/o-pimba-e-nosso">https://www.rtp.pt/play/palco/p9117/o-pimba-e-nosso</a></p>
+
+  </main>
+  <nav>
+    <a href="/">🏠 Home</a> | <a href="/portuguese-toolkit/">The Portuguese Toolkit</a>
+  </nav>
+
+  <script src="https://giscus.app/client.js"
+        data-repo="paninebaluy/nataliia-me"
+        data-repo-id="R_kgDOMt51iQ"
+        data-category-id="DIC_kwDOMt51ic4Cs05T"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+  </script>
+</body>
+</html>
