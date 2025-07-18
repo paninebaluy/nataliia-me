@@ -5,6 +5,8 @@ title: "The Portuguese Toolkit"
 
 <h1>{{ title }}</h1>
 
+> The blog is currently in the process of being moved from [Medium](https://medium.com/@portuguese-toolkit).
+
 ## Recent Posts
 
 <ul>
@@ -22,3 +24,5 @@ title: "The Portuguese Toolkit"
 - [Medium](https://medium.com/@portuguese-toolkit)
 
 - [Instagram](https://www.instagram.com/portuguese_toolkit/)
+
+- [Telegram](https://t.me/inattentiveportolife)

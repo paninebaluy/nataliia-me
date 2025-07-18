@@ -159,6 +159,19 @@ This can and probably will lift a lot of this feeling of being foreign, weird, i
         data-loading="lazy"
         crossorigin="anonymous"
         async>
+
+        document.addEventListener('DOMContentLoaded', () => {
+        document.querySelectorAll('a[href]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (
+            href.startsWith('http') &&
+            !href.startsWith(window.location.origin)
+          ) {
+            link.setAttribute('target', '_blank');
+            link.setAttribute('rel', 'noopener noreferrer');
+          }
+        });
+      });
   </script>
 </body>
 </html>

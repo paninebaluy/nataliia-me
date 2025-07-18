@@ -135,6 +135,19 @@ I speak Portuguese and use it mainly to talk to other dog owners and friends. An
         data-loading="lazy"
         crossorigin="anonymous"
         async>
+
+        document.addEventListener('DOMContentLoaded', () => {
+        document.querySelectorAll('a[href]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (
+            href.startsWith('http') &&
+            !href.startsWith(window.location.origin)
+          ) {
+            link.setAttribute('target', '_blank');
+            link.setAttribute('rel', 'noopener noreferrer');
+          }
+        });
+      });
   </script>
 </body>
 </html>

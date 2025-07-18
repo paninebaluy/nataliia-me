@@ -149,6 +149,19 @@ In addition, there are a couple of projects about dog-friendliness that I encoun
         data-loading="lazy"
         crossorigin="anonymous"
         async>
+
+        document.addEventListener('DOMContentLoaded', () => {
+        document.querySelectorAll('a[href]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (
+            href.startsWith('http') &&
+            !href.startsWith(window.location.origin)
+          ) {
+            link.setAttribute('target', '_blank');
+            link.setAttribute('rel', 'noopener noreferrer');
+          }
+        });
+      });
   </script>
 </body>
 </html>
