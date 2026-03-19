@@ -5,8 +5,6 @@ title: "The Portuguese Toolkit"
 
 <h1>{{ title }}</h1>
 
-> The blog is currently in the process of being moved from [Medium](https://medium.com/@portuguese-toolkit).
-
 ## Recent Posts
 
 <ul>
