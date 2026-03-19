@@ -1,10 +1,742 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://nataliia.me/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://nataliia.me/portuguese-toolkit/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>This is Natália</title>
-    <link>https://nataliia.me/</link>
+    <link>https://nataliia.me/portuguese-toolkit/</link>
     <atom:link href="https://nataliia.me/feed.xml" rel="self" type="application/rss+xml" />
     <description>I write about adapting in Portugal.</description>
     <language>en</language>
+    <item>
+      <title>A Vida Pacata</title>
+      <link>https://nataliia.me/blog/a-vida-pacata/</link>
+      <description>&lt;h1&gt;A Vida Pacata&lt;/h1&gt;
+&lt;p&gt;Date: 19/03/2026 11:55:03&lt;/p&gt;
+&lt;p&gt;I learned a new word in Portuguese — “&lt;a href=&quot;https://www.infopedia.pt/dicionarios/lingua-portuguesa/pacata&quot; title=&quot;Infopedia.pt&quot;&gt;pacata&lt;/a&gt;”. People use it to describe the way of life (“a vida pacata” — a calm fulfilling life), or a place (“a cidade pacata” — a tranquil kind of town city where you have everything you need), and both would perfectly describe my life and where I live at this point.&lt;/p&gt;
+&lt;p&gt;I haven’t written anything for such a long time, but let’s just restart. I guess I got very involved with establishing this new, refreshing way of life!&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://nataliia.me/images/pacata2.png&quot; alt=&quot;The Medieval Bridge over river Cávado&quot;&gt;
+  &lt;figcaption&gt;
+   The Medieval bridge over river Cávado
+  &lt;/figcaption&gt; 
+&lt;/figure&gt;
+&lt;p&gt;So I got a new job in August, and in November, I moved to Barcelos — a town in Minho, about an hour north of Porto by train or car.&lt;/p&gt;
+&lt;p&gt;Now, my life consists of working from home, going to weekly markets, to regular gym sessions, to the park with our dog, cooking tasty meals, playing video games, and reading books while half-drowning in a beanbag.&lt;/p&gt;
+&lt;p&gt;My partner and I are still establishing our social life here, but having a dog, it’s not that difficult to meet someone. Plus, I have some new good acquaintances from my belly dance class.&lt;/p&gt;
+&lt;p&gt;Let this new post be a sign for me to finish an article about why we moved to Barcelos and how we chose the town.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://nataliia.me/images/pacata1.png&quot; alt=&quot;Baixa de Barcelos&quot;&gt;
+  &lt;figcaption&gt;
+   Barcelos city centre 
+  &lt;/figcaption&gt; 
+&lt;/figure&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 11:55:03 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/a-vida-pacata/</guid>
+    </item>
+    <item>
+      <title>Three Things I Wish I Knew About Pets in Portugal</title>
+      <link>https://nataliia.me/blog/three-things-i-wish-i-knew-about-pets-in-portugal/</link>
+      <description>&lt;h1&gt;Three Things I Wish I Knew About Pets in Portugal&lt;/h1&gt;
+&lt;p&gt;Date: 11/07/2025 15:26:29&lt;/p&gt;
+&lt;h2&gt;Insurance&lt;/h2&gt;
+&lt;p&gt;In my first several months in Portugal, I had to schedule vet consults several times. My dog, Freyja, has a propensity for paw traumas, and our first autumn in Portugal was very wet, with slippery &lt;em&gt;calçadas&lt;/em&gt;, or “pavements” in Portuguese. I also discovered her teeth were covered in plaque — must have been from the stress of the change. I took her to the clinic, and every time, I paid outrageous amounts of money that I attributed to the initial stress spending in a new country. When I paid 480 eur for teeth cleaning and removal of two broken teeth, I realized I was doing something wrong.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://nataliia.me/images/freyja-clinic.png&quot; alt=&quot;Freyja in a vet clinic&quot;&gt;
+  &lt;figcaption&gt;
+    Freyja in a vet clinic
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;The wise thing to do would have been to investigate pet insurance from the start.&lt;/p&gt;
+&lt;p&gt;The way pet insurance works in Portugal is similar to human medical insurance here: you pay a monthly fee and get substantial discounts at veterinary clinics for treatment and medicine, and there are occasional freebies. There are limits, though: it&#39;s best to insure your animal before it hits 8 years of age, because very few insurance companies can start their coverage for older animals. But once you&#39;re with an insurance company, your deal usually stays with your animal for life. It&#39;s much more advantageous to get your pet insured early. Here are the cases my insurance covers:&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://nataliia.me/images/pet-insurance.png&quot; alt=&quot;Cases covered by my pet insurance&quot;&gt;
+  &lt;figcaption&gt;
+    Cases covered by my pet insurance
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;I got a free check-up every two years before Freyja was 8, now it&#39;s one every year. I&#39;ve got a spending limit for surgery and hospital stays, a veterinary care limit, together with several free telemedicine calls and home visits included. I&#39;ve also got some coverage in case I need to pay damages or go to court in case something happens to other people or dogs because of the actions of my dog.&lt;/p&gt;
+&lt;p&gt;I won&#39;t advertise the name of my insurance company, as this coverage is more or less standard. But I will show how I selected it, with the help of &lt;a href=&quot;https://www.deco.proteste.pt/&quot;&gt;DECO PROteste&lt;/a&gt;, a well-known consumer rights portal that has multiple free services and goods listed for comparison. Here is a specific subdomain dedicated to animal insurance: &lt;a href=&quot;https://seguroanimais.protesteseguros.pt/&quot;&gt;https://seguroanimais.protesteseguros.pt/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here&#39;s my tip, though: select a carrier that covers a vet clinic in your area, and also make sure it covers multiple clinics in case you decide to move in the future. I am currently planning to move to a different city with my boyfriend, and one of the factors we are looking at is the availability of vet clinics that are in the network of my insurance plan.&lt;/p&gt;
+&lt;h2&gt;Plants and Wildlife&lt;/h2&gt;
+&lt;p&gt;There are a couple of dangers you need to look out for in Portugal.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Pine_processionary&quot;&gt;Pine processionary caterpillars&lt;/a&gt; get down to the ground in search of food around the beginning of April. They travel in large processions, attracting attention from dogs and cats, but they are known to release toxic hairs into the noses and mouths of unsuspecting pets as a defense mechanism. Look out for them, as they can cause serious inflammation.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Thaumetopea.pityocampa.01.jpg/679px-Thaumetopea.pityocampa.01.jpg?20060626102441&quot; alt=&quot;Lagarta-do-pinheiro caterpillars in a procession&quot;&gt;
+  &lt;figcaption&gt;
+    Lagarta-do-pinheiro caterpillars in a procession. Source: &lt;a href=&quot;https://creativecommons.org/licenses/by/2.0&quot;&gt;Angel Torres, CC BY 2.0&lt;/a&gt;, via Wikimedia Commons
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Likewise, during the summer, watch out for sticky, long plant bristles. In Portuguese, they&#39;ve got a term — &lt;em&gt;praganas&lt;/em&gt;. They grow on barley, some varieties of rye, and some needle grasses. These bristles can get caught and lodged in the coat, which is a mild nuisance, but they can also poke through the animal&#39;s skin, causing wounds that need veterinary attention.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://www.zooplus.pt/magazine/wp-content/uploads/2022/08/praganas-nos-caes_2.webp&quot; alt=&quot;Praganas in dog fur&quot;&gt;
+  &lt;figcaption&gt;
+    Praganas in dog fur. Source: &lt;a href=&quot;https://www.zooplus.pt/magazine/caes/saude-do-cao-e-cuidados/praganas-nos-caes&quot;&gt; Zooplus&lt;/a&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Inspect your pet carefully after its walks in the wild and try to avoid tall grasses with long bristles and seeds during the walks.&lt;/p&gt;
+&lt;h2&gt;Neighbours and Other Dog People&lt;/h2&gt;
+&lt;p&gt;People in Porto are amazing. I live in a neighbourhood with a lot of older people, and they adore my dog and never miss an opportunity to chat with me and pet her.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://nataliia.me/images/freyja-neighbours.png&quot; alt=&quot;Freyja and her favourite neighbourhood people&quot;&gt;
+  &lt;figcaption&gt;
+    Freyja and her favourite neighbourhood people
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;A lot of them also always carry dog treats. They do it because they&#39;re nice, they love animals, and it&#39;s always satisfying to watch a cute animal eat. However, it&#39;s not always ideal if your pet is allergic to something or on a diet. Prepare a short, convincing speech to avoid dangerous situations.&lt;/p&gt;
+&lt;p&gt;There is also the question of cleaning up after your dog. Unfortunately, a lot of dog owners still think it&#39;s not necessary to clean up the poop. My friend came up with a sweet way of avoiding uncomfortable talks to just hold out the poop bag to the dog owner in silence, smiling sweetly. It works well enough :)&lt;/p&gt;
+&lt;p&gt;What other observations about pets in Portugal do you have?&lt;/p&gt;
+</description>
+      <pubDate>Fri, 11 Jul 2025 15:26:29 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/three-things-i-wish-i-knew-about-pets-in-portugal/</guid>
+    </item>
+    <item>
+      <title>Fidalguinhos de Braga</title>
+      <link>https://nataliia.me/blog/fidalguinhos-de-braga/</link>
+      <description>&lt;h1&gt;Fidalguinhos de Braga&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date: 23/04/2024 21:10:55&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#food #oqueeisso&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;O que é isso?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;It’s a question I often ask in the bakeries, then promptly forget what they answer me.&lt;/p&gt;
+&lt;p&gt;I am a kind of a bread and pastry aficionado. I like all things bready and care more about the biscuit than the filling. If you offered me a choice between chocolate or a piece of freshly baked bread, I’d choose the second every time.&lt;/p&gt;
+&lt;p&gt;This is where I feel in real harmony with Portugal. Only tourists think that Portugal is all about fish and pastéis de nata, while it is actually about meat, beans, and bread.&lt;/p&gt;
+&lt;p&gt;So, ok, new tag, new content. Food!&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 20px;align-items: flex-end;&quot;&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/fidalguiinhos-1.webp&quot; alt=&quot;Fidalguinhos de Braga from Confeitaria Nandinha&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;Fidalguinhos de Braga
+  &lt;/figcaption&gt;&lt;/figure&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/fidalguiinhos-2.webp&quot; alt=&quot;Fidalguinhos de Braga from Confeitaria Nandinha&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;From Confeitaria Nandinha&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;h2&gt;Fidalguinhos de Braga&lt;/h2&gt;
+&lt;p&gt;Also called just “fidalguinhos” or “fidalgos”. This is a thin oval pastry made of wheat flour, egg, butter, lemon zest, and cinnamon. Sometimes it has a slightly different shape, like two crossed legs.&lt;/p&gt;
+&lt;p&gt;If you are a fan of &lt;em&gt;solomka&lt;/em&gt; (very specific slightly sweet thin pastry), you’ll probably like this one, although fidalguinhos are sweeter.&lt;/p&gt;
+&lt;h2&gt;Where to buy them in Porto?&lt;/h2&gt;
+&lt;p&gt;📍 Confeitaria Nandinha: &lt;a href=&quot;https://maps.app.goo.gl/WNsWvvVb9rLpwfCs8&quot;&gt;https://maps.app.goo.gl/WNsWvvVb9rLpwfCs8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Price: 3 eur&lt;/p&gt;
+&lt;p&gt;P.S.: Ate almost all of them while sitting down after a hard day. Because my body is a temple of gluttony.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 23 Apr 2024 21:10:55 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/fidalguinhos-de-braga/</guid>
+    </item>
+    <item>
+      <title>Casa Expresso</title>
+      <link>https://nataliia.me/blog/casa-expresso/</link>
+      <description>&lt;h1&gt;Casa Expresso&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date: 05/04/2024 01:48:36&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#cheap&lt;/p&gt;
+&lt;h2&gt;Geolocation&lt;/h2&gt;
+&lt;p&gt;📍 Restaurant Casa Expresso&lt;a href=&quot;https://maps.app.goo.gl/S4fUe1DxXmSaEPKf7&quot;&gt;https://maps.app.goo.gl/S4fUe1DxXmSaEPKf7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tearing this place away from my heart, but it’s always full anyway, and 1.5 people read this blog, so no harm done.&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 20px;align-items: flex-end;&quot;&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/casa-expresso-1.jpg&quot; alt=&quot;Menu of Casa Expresso&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;Daily menu&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/casa-expresso-2.jpg&quot; alt=&quot;Menu of Casa Expresso&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;Daily menu&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/casa-expresso-3.jpg&quot; alt=&quot;Menu of Casa Expresso&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;Daily menu&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;It’s famous for its rojões and cow stomach with green sauce. This is an amazing place to eat for 5-8 eur, best achieved if you are not alone. I’ve added a few highlights of their menu with items I personally recommend. Remember that items for 8 eur and higher are a dose, which means that it’s for at least two people or for one VERY hungry person.&lt;/p&gt;
+&lt;p&gt;If you’re a stupidly optimistic person who works for a Portuguese company, like me, get a sandes com rojão (3 eur) with a fino (1 eur) and enjoy your amazing cheap lunch.&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 20px;align-items: flex-end;&quot;&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/casa-expresso-4.jpg&quot; alt=&quot;Menu of Casa Expresso&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;Daily menu&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/casa-expresso-5.jpg&quot; alt=&quot;Menu of Casa Expresso&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;Daily menu&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/casa-expresso-6.jpg&quot; alt=&quot;Menu of Casa Expresso&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;Daily menu&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;Or you can go all out, like we did last night, with rojões à moda da casa with potatoes, salad, two finos, a sandwich with presunto and Serra cheese, and a dessert. It all came up to 17.10.&lt;/p&gt;
+&lt;p&gt;You might have to wait in line to get a table though. And this place is a bit hard to find. But it’s there!&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 20px;align-items: flex-end;&quot;&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/casa-expresso-7.jpg&quot; alt=&quot;Interior of Casa Expresso&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;Interior&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/casa-expresso-8.jpg&quot; alt=&quot;Interior of Casa Expresso&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;Interior&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;</description>
+      <pubDate>Fri, 05 Apr 2024 01:48:36 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/casa-expresso/</guid>
+    </item>
+    <item>
+      <title>Guimarães</title>
+      <link>https://nataliia.me/blog/guimaraes/</link>
+      <description>&lt;h1&gt;Guimarães&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date: 25/03/2024 10:32:01&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#cheap #travel&lt;/p&gt;
+&lt;p&gt;So turns out I’ve been to Guimarães for the sixth time already. Somehow, I feel the need to drag everyone I know there.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://nataliia.me/images/guimaraes.webp&quot; alt=&quot;Natália in the courtyard of Paço dos Duques de Bragança&quot;&gt;
+  &lt;figcaption&gt;
+    Me in the courtyard of Paço dos Duques de Bragança
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Bad news:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Last year’s program with free attendance of museums for Portuguese residents on weekends before 14h seems to have ended.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The castle has even more territory cordoned off for restoration: the first floor and a major part of the ground floor are off-limits.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The good news is that now you need only one ticket to see the Paço de Duques de Branganca, Castelo, and Igreja for 5 euros.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 25 Mar 2024 10:32:01 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/guimaraes/</guid>
+    </item>
+    <item>
+      <title>Calculate Trip Expenditures in Advance</title>
+      <link>https://nataliia.me/blog/calculate-trip-expenditures-in-advance/</link>
+      <description>&lt;h1&gt;Calculate Trip Expenditures in Advance&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date: 20/03/2024 17:13:19&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#useful&lt;/p&gt;
+&lt;p&gt;I’ve been travelling by car a lot lately. I’ll be honest, travel in Portugal without a car is kind of a pain in the ass. Buses are ok, trains a great but late, but most cool places are kind of inaccessible without personal wheels.&lt;/p&gt;
+&lt;p&gt;There are two services I use to plan trips on my small three-door trusty Pupsik car.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.viaverde.pt/empresas/ferramentas/calculador-de-portagens&quot;&gt;Calculador de Portagens&lt;/a&gt; by Via Verde.
+Do NOT use the one by Infraestrururas de Portugal; it lies shamelessly.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I also use &lt;a href=&quot;https://www.waze.com/&quot;&gt;Waze app&lt;/a&gt; to do the same. Sometimes Waze is even more precise.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.maisgasolina.com/&quot;&gt;Maisgasolina&lt;/a&gt; to look for the cheapest gasoline on my way. Portugal’s gas stations sometimes have a pretty wild price variety. &lt;em&gt;95 simples&lt;/em&gt; is much cheaper in Trás-os-Montes for some reason.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Important P.S.:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Never forget.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Gasolina&lt;/em&gt; — gasoline.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Gasóleo&lt;/em&gt; — diesel.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Wed, 20 Mar 2024 17:13:19 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/calculate-trip-expenditures-in-advance/</guid>
+    </item>
+    <item>
+      <title>Dog-Friendliness and Cafés in Porto</title>
+      <link>https://nataliia.me/blog/dog-friendliness-and-cafes-in-porto/</link>
+      <description>&lt;h1&gt;Dog-Friendliness and Cafés in Porto&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date: 09/03/2024 14:56:11&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#useful&lt;/p&gt;
+&lt;p&gt;I was filming a video circle for my friends with my dog lying inside a café while people stroked her head, and I realized that I had never written this post.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://nataliia.me/images/dogfriendly-1.gif&quot; alt=&quot;Freyja being welcome at a neighbourhood café&quot;&gt;
+  &lt;figcaption&gt;
+    Freyja being welcome at a neighbourhood café
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Portugal likes dogs. Maybe it’s even too lenient toward dog owners who frequently refuse to clean up.&lt;/p&gt;
+&lt;p&gt;But if you go to any café around the city, you’ll encounter the obligatory red crossed-out dog sign. It’s the standard.&lt;/p&gt;
+&lt;p&gt;But pet-friendliness doesn’t work here like in other countries. Like in many other areas, it’s very personal: you need to communicate and make friends. If the establishment owner knows you and your dog, there is a high chance that you will be allowed inside together.&lt;/p&gt;
+&lt;p&gt;This is especially true for popular local cafés/bars/churrasqueiras 3-in-1 with dim lighting, an obligatory TV, an optional pimba in the background, and a wide selection of ice cream and cigarettes.&lt;/p&gt;
+&lt;p&gt;Plus, you can always use the esplanada — the tables outside. It’s also the unwritten rule that dogs are always welcome there, climate permitting you to use it all year long.&lt;/p&gt;
+&lt;p&gt;I’ve lived in two bairros (small districts) in Porto: Lordelo do Ouro and Aldoar. In both, I easily managed to find establishments that were absolutely OK with my dog (and larger dogs) inside. I see two main provisions for this:&lt;/p&gt;
+&lt;p&gt;You are open for communication and friendly, and always say hello to the owner passing by.
+Your dog is friendly and not aggressive.
+In addition, there are a couple of projects about dog-friendliness that I encountered.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://dogallowed.com/&quot;&gt;https://dogallowed.com/&lt;/a&gt; collects places that are dog-friendly by default. For now, it looks like it only has places in Lisbon.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/petfriendly_pt&quot;&gt;https://www.instagram.com/petfriendly_pt&lt;/a&gt; — a project that is more of an advertising site for short stays. I hope it will grow into something more useful.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;P.S: &lt;em&gt;Mais uma…&lt;/em&gt; I mean, a bonus illustration for this post. This is at Café Gomil (Matosinhos).&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://nataliia.me/images/dogfriendly-2.webp&quot; alt=&quot;A dog lying inside a café while its owner watches football on TV&quot;&gt;
+  &lt;figcaption&gt;
+    A dog lying inside a café while its owner watches football on TV
+  &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+      <pubDate>Sat, 09 Mar 2024 14:56:11 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/dog-friendliness-and-cafes-in-porto/</guid>
+    </item>
+    <item>
+      <title>RTP Play Movies for All</title>
+      <link>https://nataliia.me/blog/rtp-play-movies-for-all/</link>
+      <description>&lt;h1&gt;RTP Play Movies for All&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date: 05/03/2024 00:08:49&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#useful #cheap&lt;/p&gt;
+&lt;h2&gt;RTP Play&lt;/h2&gt;
+&lt;p&gt;Rádio e Televisão de Portugal (RTP) has an absolutely free service with movies, TV series, and shows. The list of movies and series is not constant, as it depends on the licenses, copyright, and blahblah.&lt;/p&gt;
+&lt;p&gt;I personally prefer to watch documentaries there.&lt;/p&gt;
+&lt;p&gt;Of course, everything has Portuguese subtitles, but many movies and shows are available in English (if they were shot with an English voiceover originally).&lt;/p&gt;
+&lt;p&gt;Here are some recommendations, depending on my absolutely inexpert evaluation of your level of Portuguese:&lt;/p&gt;
+&lt;h3&gt;Level 1: No words, just plain train ASMR&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.rtp.pt/play/p12615/linha-do-douro-um-patrimonio-sobre-carris&quot;&gt;https://www.rtp.pt/play/p12615/linha-do-douro-um-patrimonio-sobre-carris&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Level 2: Portugal de… Patricia de Melo Moreira&lt;/h3&gt;
+&lt;p&gt;A movie about a female photojournalist who became famous for this grim photo report about a fire in Pedrógão Grande in summer of 2017 that killed 64 people.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.rtp.pt/play/p12233/e725353/portugal-de&quot;&gt;https://www.rtp.pt/play/p12233/e725353/portugal-de&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Level 3: Portunhol&lt;/h3&gt;
+&lt;p&gt;There are seven glorious and breathtakingly beautiful episodes about people living on the borders of Portugal and Spain, as well as their customs and language (or, I should say, languages, because every region has its own version of portunhol).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.rtp.pt/play/p12377/portunhol&quot;&gt;https://www.rtp.pt/play/p12377/portunhol&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Level 4: O pimba é nosso&lt;/h3&gt;
+&lt;p&gt;At this level, you are probably ready for the fun, ugly, beautiful, and stupidly fun world of pimba, its double meanings, and its naive world of popular people’s music.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.rtp.pt/play/palco/p9117/o-pimba-e-nosso&quot;&gt;https://www.rtp.pt/play/palco/p9117/o-pimba-e-nosso&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Tue, 05 Mar 2024 00:08:49 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/rtp-play-movies-for-all/</guid>
+    </item>
+    <item>
+      <title>Serra da Freita</title>
+      <link>https://nataliia.me/blog/serra-da-freita/</link>
+      <description>&lt;h1&gt;Serra da Freita&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date: 03/03/2024 21:34:10&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#cheap #travel&lt;/p&gt;
+&lt;h2&gt;The Travel&lt;/h2&gt;
+&lt;p&gt;My love for Trás-os-Montes and Parque Peneda-Gerês is forever, but it’s hard to make a very small trip out of them.&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 20px;align-items: flex-end;&quot;&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/serrafreita-1.webp&quot; alt=&quot;Views and rocks of Serra da Freita&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;Views and rocks of Serra da Freita&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/serrafreita-2.webp&quot; alt=&quot;Views and rocks of Serra da Freita&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;Views and rocks of Serra da Freita&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;There is a place that is close to Porto, about a 60-minute drive to the south, and almost next to Santa Maria da Feira.&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 20px;align-items: flex-end;&quot;&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/serrafreita-3.webp&quot; alt=&quot;Views and rocks of Serra da Freita&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;You can basically stop anywhere&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/serrafreita-4.webp&quot; alt=&quot;Views and rocks of Serra da Freita&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;And absorb the beauty&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;Serra da Freita has mountains, cool rocks, small mountain villages, hiking trails, waterfalls, fog, and even a bit of snow. It’s seriously beautiful and worth going to—by car, as there is no visible public transport.&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 20px;align-items: flex-end;&quot;&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/serrafreita-5.webp&quot; alt=&quot;Views and rocks of Serra da Freita&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;Or climb and hike
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/serrafreita-6.webp&quot; alt=&quot;Views and rocks of Serra da Freita&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;Best to bring your own water&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;We left at 12 and were back by 18, having hiked a trail, visited two miradouros and had lunch.&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 20px;align-items: flex-end;&quot;&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/serrafreita-7.webp&quot; alt=&quot;Views and rocks of Serra da Freita&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;There was even some snow&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/serrafreita-8.webp&quot; alt=&quot;Views and rocks of Serra da Freita&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;at the beginning of March&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;One of the &lt;em&gt;miradouros&lt;/em&gt; was actually a geological park, Pedras Parideiras Serra da Freita, where a cute phenomenon occurs: small geodes are “born” (well, compressed and squeezed out due to a different density) out of blocks of granite.&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 20px;align-items: flex-end;&quot;&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/serrafreita-9.webp&quot; alt=&quot;Rocks and mist of Pedras Parideiras&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;Rocks and mist of Pedras Parideiras&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/serrafreita-10.webp&quot; alt=&quot;Rocks and mist of Pedras Parideiras&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;Rocks and mist of Pedras Parideiras&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;h2&gt;Geolocations&lt;/h2&gt;
+&lt;p&gt;📍Miradouro da Costa Atlântica &lt;a href=&quot;https://maps.app.goo.gl/Ke3EBUmTYi7RtwYk6?g_st=ic&quot;&gt;https://maps.app.goo.gl/Ke3EBUmTYi7RtwYk6?g_st=ic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;📍A hike to a cool view &lt;a href=&quot;https://maps.app.goo.gl/4w1TQxcDxvnhjqHs5?g_st=ic&quot;&gt;https://maps.app.goo.gl/4w1TQxcDxvnhjqHs5?g_st=ic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;📍Pedras Parideiras &lt;a href=&quot;https://maps.app.goo.gl/74kuNc2sEr8pBYU36?g_st=ic&quot;&gt;https://maps.app.goo.gl/74kuNc2sEr8pBYU36?g_st=ic&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Price&lt;/h2&gt;
+&lt;p&gt;6.40 for portagens (toll roads), about 8 eur for gasoline, and you can take the food with you.&lt;/p&gt;
+&lt;h2&gt;The Food&lt;/h2&gt;
+&lt;p&gt;…but if you don’t want to take food with you, just drive here and ask for a &lt;em&gt;sandes de vitela assada&lt;/em&gt;.&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 20px;align-items: flex-end;&quot;&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/serrafreita-11.webp&quot; alt=&quot;Café São João&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;Café São João&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/serrafreita-12.webp&quot; alt=&quot;Café São João&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;Café São João&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/serrafreita-13.webp&quot; alt=&quot;Sandwiches of Café São João&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;And the divine sandwiches&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;They were so good I took one home with me.&lt;/p&gt;
+&lt;p&gt;P.S.: Don’t you just love traditional Portuguese cafés/bars/churrasqueiras 3in1?&lt;/p&gt;
+&lt;h2&gt;Geolocation&lt;/h2&gt;
+&lt;p&gt;📍Café São João &lt;a href=&quot;https://maps.app.goo.gl/kgZEq61WojoSbDzS9?g_st=ic&quot;&gt;https://maps.app.goo.gl/kgZEq61WojoSbDzS9?g_st=ic&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Price&lt;/h2&gt;
+&lt;p&gt;I&#39;m not 100% sure because we also bought beer and paid for everything with MBWay, but it was about 3.50 euros per 1 sandes.&lt;/p&gt;
+&lt;p&gt;(they do accept MBWay, but it could have been just because a young guy was on this shift, so it&#39;s best to have cash with you).&lt;/p&gt;
+&lt;p&gt;P.S.: This is a shameless picture of me hiking with my dog yesterday to attract likes to this blog.&lt;/p&gt;
+&lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/serrafreita-14.webp&quot; alt=&quot;Natália and her dog Freyja&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;Me and Freyja&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+      <pubDate>Sun, 03 Mar 2024 21:34:10 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/serra-da-freita/</guid>
+    </item>
+    <item>
+      <title>How to Feel (Almost) at Home in Portugal</title>
+      <link>https://nataliia.me/blog/how-to-feel-(almost)-at-home-in-portugal/</link>
+      <description>&lt;h1&gt;How to Feel (Almost) at Home in Portugal&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date: 01/03/2024 12:33:33&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hey, since this is a personal blog that nobody reads, I’ll share some more personal thoughts here.&lt;/p&gt;
+&lt;p&gt;I did a speech for Ukrainians and for the Portuguese at a manifestation on February 24, the second grim anniversary of the start of a full-scale invasion of Russia into Ukraine.&lt;/p&gt;
+&lt;p&gt;I am friends with the Associação de Ucranianos do Porto, and they asked me also to say something. So I said what I wanted: I gave a half-joking set of advice for the Ukrainians to adapt (in Ukrainian) and a more persuasive speech for the Portuguese who can vote (in Portuguese).&lt;/p&gt;
+&lt;p&gt;Here is the half-joking advice for immigrants, especially those who didn’t mean to move to Portugal.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Become a regular client at a local café, but not a hipster one with 4 eur cappuccinos!
+Choose the one with black coffee like lava.
+Ok, ok, few people like local 80-cent coffee, but you can get orange juice or tea. Or a torrada.
+If you show up almost every day and talk to the waiters and the owner, soon, people will start recognizing you on the streets.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Get a dog. Or borrow a dog from your friends.
+You will have to go outside twice daily and talk to people. Soon, you will get contact information for a community-approved mechanic, someone will treat you to a coffee, and kids will share candy with you.
+You’ll also learn about local services, often much cheaper than the ones you use.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use your, however mediocre, Portuguese every day.
+With mistakes, bad pronunciation, and mixing up words. Don’t worry, it’s the effort that make people actually see that you try. You will get some or a lot of respect for it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ask your neighbours for help.
+An EDP operator doesn’t understand what you need? Do you need advice on battling mould? Be brave and ask a neighbour you meet at the building door daily to help you.
+They will likely accept. Help promotes a sense of security and community and actually bonds people.
+This can and probably will lift a lot of this feeling of being foreign, weird, ill-fitting, and inadequate. You might not notice, but it drains much of your power daily. This way, with time, you’ll get some mind space and free time (and maybe even will be able to help someone else get out of the immigrant rut).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;My friend, the amazing photographer Helder Ferreira, took some hilarious pictures of me. And hey, it’s my blog, so I can show them off here, haha.&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 10px;align-items: flex-end;&quot;&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/natalia-demo-1.webp&quot; alt=&quot;Natalia speaks at a demonstration&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;me&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/natalia-demo-2.webp&quot; alt=&quot;Natalia speaks at a demonstration&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;also me&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/natalia-demo-3.webp&quot; alt=&quot;Natalia speaks at a demonstration&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;me again&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;</description>
+      <pubDate>Fri, 01 Mar 2024 12:33:33 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/how-to-feel-(almost)-at-home-in-portugal/</guid>
+    </item>
+    <item>
+      <title>Communication in a Portuguese Company, a Story</title>
+      <link>https://nataliia.me/blog/communication-in-a-portuguese-company-a-story/</link>
+      <description>&lt;h1&gt;Communication in a Portuguese Company, a Story&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date: 29/02/2024 14:41:52&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#personal&lt;/p&gt;
+&lt;p&gt;So, I got a job at a Portuguese IT company almost a year ago (update at the time of moving this blog to Medium: a year and a half ago). Just to get it off the table: yes, the pay is shit, it’s a long-term contract, and I was prepared for a drop in money and reputation on the market in a totally new country.&lt;/p&gt;
+&lt;p&gt;For a long time, I was the only non-Portuguese-speaking person in the project. Every other person was either Portuguese or from a Portuguese-speaking country. Fortunately, my project required me to supervise stuff in English, and everyone spoke it.&lt;/p&gt;
+&lt;p&gt;But, if all your colleagues are Portuguese speakers like you, what language would you use casually at brainstorming sessions and for quick discussions? Right. So, I realized I needed something better than the community centre group course on day one.&lt;/p&gt;
+&lt;p&gt;I signed up for private online lessons on Preply with a Portuguese teacher who lives in Angola and offers a lower price for his services.&lt;/p&gt;
+&lt;p&gt;One thing I know well about education is that you’ve got to have a very clear, quantifiable goal. I needed to be able to maintain a tech-level discussion with my colleagues for 15 minutes. He gave me a deadline: December (we started in March).&lt;/p&gt;
+&lt;p&gt;So I worked and studied and did my best not to get discouraged with so much to do, win sympathy and recognition, and fit in. By May, I could fit some words into conversation here and there and got much better at understanding people.&lt;/p&gt;
+&lt;p&gt;Speaking was a skill that was the hardest for me, as it required thinking on my feet, which stumbled me every time. Starting with short phrases, though, helped, as well as learning colloquial expressions and dozens of ways to say hello or express irritation.&lt;/p&gt;
+&lt;p&gt;The flip side was that now, people sometimes took me for a proficient speaker. But, as I already had little trouble understanding them, so I faked being not very talkative and gestured a lot :)&lt;/p&gt;
+&lt;p&gt;So, progress went in leaps and falls. One day, I could flake off at work or have a nice night’s sleep, and suddenly, I could discuss some stuff in Portuguese at a call or explain directions on the street without sweating and stressing.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://nataliia.me/images/meme-communication-1.webp&quot; alt=&quot;The graph of confidence in your Portuguese&quot;&gt;
+  &lt;figcaption&gt;
+    The graph of confidence in your Portuguese talking skills
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;On other days, I’d be so tired that I hoped that nobody would talk to me, please, dear god. On those days, I didn’t go to the local Brazilian bakery because it required that I talk to at least two people: the nice lady behind the counter and a nice senhor at the cash register.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://nataliia.me/images/meme-communication-2.webp&quot; alt=&quot;The fight between crippling anxiety and the need to speak in a foreign language&quot;&gt;
+  &lt;figcaption&gt;
+    The fight between crippling anxiety and the need to speak in a foreign language
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;At last, I made a brave (and rash) decision to change all of my work calls to Portuguese. I had people who supported and respected me for it, and we also made a clause where we’d change it to English if something wasn’t clear so that we wouldn’t endanger the project.&lt;/p&gt;
+&lt;p&gt;I was tired after the first call of the day. My brain was boiling, trying to solve two hard tasks at once: how to do my job properly and how to speak about it properly. I felt very very stupid very often and doubted my ability to be a good professional. It sucked so much!&lt;/p&gt;
+&lt;p&gt;But, with time, we abandoned this self-defeating practice for a milder one:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;short calls would be in Portuguese&lt;/li&gt;
+&lt;li&gt;longer calls — in English&lt;/li&gt;
+&lt;li&gt;any call that required making a difficult decision would have to be in English&lt;/li&gt;
+&lt;li&gt;all the informal stuff is in Portuguese&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://nataliia.me/images/meme-communication-3.webp&quot; alt=&quot;The balance between portinglês, english and portuguese in a work environment&quot;&gt;
+  &lt;figcaption&gt;
+    The balance between portinglês, english and portuguese in a work environment
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;I must clarify that my job requires me to communicate a lot. Written communication in Portuguese did not strain me that much; it was speaking that was hard. I am not the fastest of thinkers: I require time and space to switch gears. Switching the context from English to Portuguese was hard. The other way around was easy, like sliding down an icy hill to a patch of green spring grass.&lt;/p&gt;
+&lt;p&gt;And then came the planning session at the end of summer. I organized it, I came to it, and, for two days plus lunches plus staying in the same room as my coworker, I had to Portuguese in a hardcore mode. I actually got a little sick from being so tired.&lt;/p&gt;
+&lt;p&gt;After that, I took on a couple more projects where people were kind of used to speaking Portuguese for everything, and I continued doing just that.&lt;/p&gt;
+&lt;p&gt;I also actually switched to another tutor because we achieved my goal with Sandro by December, to the point that I could host a 15-minute daily without shutting up. And we did not have a new one. So I went to another tutor to help me with my grammar and improve my fluency.&lt;/p&gt;
+&lt;p&gt;Interestingly enough, by then, I had a new non-Portuguese speaker on the main team, so the communication went back to English :) But I didn’t mind. We made a small circle of the main people responsible for different parts of the project, and I was in it, and we didn&#39;t use English there.&lt;/p&gt;
+&lt;p&gt;Some insights:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Yes, stepping out of my comfort zone worked really well for me. But I’m kind of brave (I guess). I don’t have a husband, kids, or old relatives that need care.&lt;/li&gt;
+&lt;li&gt;It was and is really hard, but it&#39;s worth it. But you need a goal.&lt;/li&gt;
+&lt;li&gt;My goal was to establish myself on the Portuguese IT market, as I actually planned to stay here. I love the country, the people, and the language.&lt;/li&gt;
+&lt;li&gt;Starting with talking and working on the grammar later actually worked faster than doing it the other way around — for me.&lt;/li&gt;
+&lt;li&gt;Communication in the company required far more than just studying the language. Half of the time and power I spent studying was learning the customs and ways to interact. I sometimes came across as too vague, or not assertive enough, or too aggressive.&lt;/li&gt;
+&lt;li&gt;BEER WITH COLLEAGUES is a must, please use these opportunities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And yes, I now speak four languages every day. Fun! Sometimes five, if I get a chance to drop some of my wild German. I feel like a superwoman.&lt;/p&gt;
+&lt;p&gt;I still suck, though, and I have to keep that in mind every day. Only yesterday, I almost caused a small scandal by mixing two words that DRASTICALLY changed the context of my message. But I know I suck, so I’m prepared to apologize and make amends.&lt;/p&gt;
+&lt;p&gt;P.S.: Here is some cringe humour about pigs and cousins. (I live in the North, after all).&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://nataliia.me/images/meme-communication-4.webp&quot; alt=&quot;Hey, tomorrow will be 40 years since we got married. Should we slaughter a pig? — What is the pig&#39;s fault? We should slaughter your cousin who introduced us!&quot;&gt;
+  &lt;figcaption&gt;
+    &quot;Hey, tomorrow will be 40 years since we got married. Should we slaughter a pig?&quot; — &quot;What is the pig&#39;s fault? We should slaughter your cousin who introduced us!&quot;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+      <pubDate>Thu, 29 Feb 2024 14:41:52 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/communication-in-a-portuguese-company-a-story/</guid>
+    </item>
+    <item>
+      <title>Calculate Your Portuguese Salary</title>
+      <link>https://nataliia.me/blog/calculate-your-portuguese-salary/</link>
+      <description>&lt;h1&gt;Calculate Your Portuguese Salary&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date: 27/09/2023 14:48:02&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#useful&lt;/p&gt;
+&lt;p&gt;If you are weird and desperate enough to consider an offer from a Portuguese company, you can calculate your future net salary here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.comparaja.pt/simuladores/calculadora-salario-liquido&quot;&gt;https://www.comparaja.pt/simuladores/calculadora-salario-liquido&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Standard practice is to include meal allowance into the net sum offered to you by the HR because it makes the sum look more attractive. Meal allowance can typically be spent on food — like supermarkets or cafés, and it’s not subject to IRS (taxes) or payments to Segurança Social (more taxes).&lt;/p&gt;
+&lt;p&gt;BTW, I recommend that you play with larger sums and see the cost of employment for the company — one of the main reasons why the salaries here are so low.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 27 Sep 2023 14:48:02 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/calculate-your-portuguese-salary/</guid>
+    </item>
+    <item>
+      <title>Bacalhau Borsch Exists</title>
+      <link>https://nataliia.me/blog/bacalhau-borsch-exists/</link>
+      <description>&lt;h1&gt;Bacalhau Borsch Exists&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date: 21/09/2023 18:44:19&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#personal&lt;/p&gt;
+&lt;p&gt;You might wonder what happened here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://nataliia.me/blog/bacalhau-borsch&quot;&gt;In the previous post&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://nataliia.me/images/bacalhau-borsch.webp&quot; alt=&quot;Bacalhau borsch by Luís Ribeiro&quot;&gt;
+  &lt;figcaption&gt;
+    Bacalhau borsch by Luís Ribeiro
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Yes, he cooked that borsch with bacalhau.&lt;/p&gt;
+&lt;p&gt;Looks awesome.&lt;/p&gt;
+&lt;p&gt;I don’t know about you, but I’ll try to make it someday closer to winter when the nights are cold and the stomach is less distinguished.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/theluisribeiro/status/1703016643729715613&quot;&gt;https://twitter.com/theluisribeiro/status/1703016643729715613&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Thu, 21 Sep 2023 18:44:19 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/bacalhau-borsch-exists/</guid>
+    </item>
+    <item>
+      <title>O Garageiro da Invicta</title>
+      <link>https://nataliia.me/blog/o-garageiro-da-invicta/</link>
+      <description>&lt;h1&gt;O Garageiro da Invicta&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date: 19/09/2023 12:56:29&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#useful #cheap&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 20px;align-items: flex-end;&quot;&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/garageiro-1.webp&quot; alt=&quot;Location of o Garageiro da Invicta&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;Location&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;flex: 1; text-align: center;&quot;&gt;
+    &lt;img src=&quot;https://nataliia.me/images/garageiro-2.webp&quot; alt=&quot;Prices at o Garageiro da Invicta&quot; style=&quot;max-width: 100%;&quot;&gt;
+    &lt;figcaption&gt;Prices&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://maps.app.goo.gl/SMKuRfkE7mWYeGPy7?g_st=ic&quot;&gt;https://maps.app.goo.gl/SMKuRfkE7mWYeGPy7?g_st=ic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A friendly and extremely affordable bicycle repair shop in Ramalde with a cool owner called Luís.&lt;/p&gt;
+&lt;p&gt;He will tune and fix anything.&lt;/p&gt;
+&lt;p&gt;The shop also sells used bikes.
+Accepts MB Way transfers.&lt;/p&gt;
+&lt;p&gt;Don’t forget to pet his cute dog, Willy!&lt;/p&gt;
+</description>
+      <pubDate>Tue, 19 Sep 2023 12:56:29 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/o-garageiro-da-invicta/</guid>
+    </item>
+    <item>
+      <title>Portuguese Work-Work Balance</title>
+      <link>https://nataliia.me/blog/portuguese-work-work-balance/</link>
+      <description>&lt;h1&gt;Portuguese Work-Work Balance&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date: 11/09/2023 20:18:05&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#personal&lt;/p&gt;
+&lt;p&gt;The biggest lie I’ve ever seen about the Portuguese on the internet is about people here being laid-back, work-life balanced, and free of overwork.&lt;/p&gt;
+&lt;p&gt;This is the first impression when you see people chilling in cafés or bars every day.&lt;/p&gt;
+&lt;p&gt;Thing is, this doesn’t mean anything. As a person with a Portuguese job, salary (you know those Portuguese salaries), service providers, and friends, I see lots of people holding two jobs (and am actually thinking of doing the same, truth be told). They just won’t talk to you about it, you’re not in their close communication circle. A café or a bar is just an easy and cheap way to relax.&lt;/p&gt;
+&lt;p&gt;I had a friend in my old building, a nice woman called Sandra. She worked as an admin for Ryanair, but also had a pet funeral business that she did in her spare time. All the servicemen I’ve ever spoken to worked 6 or 6.5 days a week, whenever they had an opportunity to earn. My dance teacher? That guy is all over town, working at five studios at once.&lt;/p&gt;
+&lt;p&gt;Even my pet care person, the one I leave my dog with when I go out of the city, is fresh out of university, but already has three jobs: she’s a dance teacher, a pet groomer, and a pet carer. Some of my colleagues consult or program for money on Saturdays and in the evenings.&lt;/p&gt;
+&lt;p&gt;Talking to dog owners on the street (and once you live in one place for several months, your conversations start to deepen) reveals that they also usually have a job plus something on the side. So, yeah. 50 to 55 hours of work per week, but then you take your family and go chill on the beach.&lt;/p&gt;
+&lt;p&gt;I think that we need to learn to chill like people here do because it seems to be effective in those few spare hours.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 11 Sep 2023 20:18:05 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/portuguese-work-work-balance/</guid>
+    </item>
+    <item>
+      <title>Cervejaria Mirita</title>
+      <link>https://nataliia.me/blog/cervejaria-mirita/</link>
+      <description>&lt;h1&gt;Cervejaria Mirita&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date: 09/09/2023 19:55:02&lt;/strong&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://nataliia.me/images/cervejaria-mirita-1.jpg&quot; alt=&quot;Cervejaria Mirita in Porto&quot;&gt;
+  &lt;figcaption&gt;
+    Cervejaria Mirita in Porto
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Really cheap Super Bock beer.&lt;/p&gt;
+&lt;h2&gt;Cervejaria Mirita&lt;/h2&gt;
+&lt;p&gt;1 fino (0.25) — 50 cents&lt;/p&gt;
+&lt;p&gt;1 garrafa (0.33) — 1 eur&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3082.511337920187!2d-8.6145233!3d41.1503501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2464fd14ff8583%3A0x4038c2ba3dccfdab!2sCervejaria%20Mirita!5e1!3m2!1spt-PT!2spt!4v1752608842178!5m2!1spt-PT!2spt&quot; width=&quot;300&quot; height=&quot;225&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://nataliia.me/images/cervejaria-mirita.webp&quot; alt=&quot;A human hand with a beer bottle&quot;&gt;
+  &lt;figcaption&gt;
+    Um príncipe por 1 eur
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Bonus: The author of this blog being unnecessarily chic and drinking an unreasonably priced príncipe for 1 euro (could have had two finos for that price!)&lt;/p&gt;
+</description>
+      <pubDate>Sat, 09 Sep 2023 19:55:02 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/cervejaria-mirita/</guid>
+    </item>
+    <item>
+      <title>Bacalhau Borsch</title>
+      <link>https://nataliia.me/blog/bacalhau-borsch/</link>
+      <description>&lt;h1&gt;Bacalhau Borsch&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date: 06/09/2023 23:08:57&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#personal&lt;/p&gt;
+&lt;p&gt;And not really Porto-related.&lt;/p&gt;
+&lt;p&gt;A really nice guy and journalist Luís Ribeiro is going to cook borsch with bacalhau as a symbol of their union with his Ukrainian wife.&lt;/p&gt;
+&lt;p&gt;Wife is scandalized. I slightly disagree, because I’ve known and tasted fish and mushroom borsch. Hard not to, when your soup selection in the national cuisine is mostly divided into borsch or yushka — and, depending on the season and the presence of a Christian fast, they can contain basically anything. Yushka can’t be red or green though. except sometimes.&lt;/p&gt;
+&lt;p&gt;You can leave your cod borsch recipe suggestions under his post here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://x.com/theluisribeiro/status/1699501217200709691?s=46&quot;&gt;https://x.com/theluisribeiro/status/1699501217200709691?s=46&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Wed, 06 Sep 2023 23:08:57 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/bacalhau-borsch/</guid>
+    </item>
+    <item>
+      <title>Stopping Debito Direto</title>
+      <link>https://nataliia.me/blog/stopping-debito-direto/</link>
+      <description>&lt;h1&gt;Stopping Debito Direto&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date: 06/09/2023 12:22:48&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#useful&lt;/p&gt;
+&lt;p&gt;I just realised that this is not evident to everyone. so.&lt;/p&gt;
+&lt;p&gt;If you signed up for a Portuguese service that regularly takes your money via debito direto, you could cancel the payments through an online service of your bank. no need to call the service provider and ask them kindly, trying to get through the low-tier call centre staff who want to hold on to your payments.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://nataliia.me/images/debito.webp&quot; alt=&quot;Debito direto in the app of Novobanco&quot;&gt;
+  &lt;figcaption&gt;
+    Debito direto in the app of Novobanco
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Here is the screenshot of the Direct Debits interface of Novobanco, for instance. just view the details and cancel ✨&lt;/p&gt;
+&lt;p&gt;P.S.: But make sure you can just cancel it in case, you know, contract penalties.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 06 Sep 2023 12:22:48 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/stopping-debito-direto/</guid>
+    </item>
+    <item>
+      <title>A Bike on OLX and a Silk Shirt</title>
+      <link>https://nataliia.me/blog/a-bike-on-olx-and-a-silk-shirt/</link>
+      <description>&lt;h1&gt;A Bike on OLX and a Silk Shirt&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date: 05/09/2023 19:50:22&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#cheap #useful&lt;/p&gt;
+&lt;p&gt;Can&#39;t really start this blog with something profound, so here are two necessary resources for anyone who lives in Portugal with a Portuguese salary, or a fellow lover of all things authentic.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.olx.pt/&quot;&gt;OLX&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Spelled &lt;code&gt;/o-el-shish/&lt;/code&gt; here, a company that&#39;s also big in Ukraine. The biggest marketplace of all things used. If you don&#39;t have an account there, get it.&lt;/p&gt;
+ &lt;figure&gt;
+     &lt;img src=&quot;https://nataliia.me/images/bike-vilar.webp&quot; alt=&quot;Vilar bicycle in question&quot;&gt;
+     &lt;figcaption&gt;
+         Vilar bicycle in question
+     &lt;/figcaption&gt;
+ &lt;/figure&gt;
+&lt;p&gt;Vilar bicycle in questionJust today I finally bought this authentic beauty for 25 eur from mah man Pedro in Foz. He was clearing out his relatives&#39; old apartment and selling a couple of Vilar bikes from the nineties on OLX.&lt;/p&gt;
+&lt;p&gt;Interesting fact: Vilar used to be the first and biggest manufacturer of bicycles and scooters in Portugal with a factory in Porto, on Rua do Bonjardim. It was shut down in 1980.&lt;/p&gt;
+&lt;p&gt;Here&#39;s an article about them:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://portugaldeantigamente.blogs.sapo.pt/primeiro-fabricante-de-bicicletas-em-10169&quot;&gt;https://portugaldeantigamente.blogs.sapo.pt/primeiro-fabricante-de-bicicletas-em-10169&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.vinted.pt/&quot;&gt;Vinted&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is where I buy my clothes. I hate shopping, and Vinted has another huge advantage: it delivers to delivery points, like tabacarias, where you can pick stuff up at your leisure.&lt;/p&gt;
+&lt;p&gt;It&#39;s magical, cheap, and works across most of the EU.&lt;/p&gt;
+&lt;p&gt;Try and look for silk shirts here, they changed my life.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+      <pubDate>Tue, 05 Sep 2023 19:50:22 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/a-bike-on-olx-and-a-silk-shirt/</guid>
+    </item>
+    <item>
+      <title>First</title>
+      <link>https://nataliia.me/blog/first/</link>
+      <description>&lt;h1&gt;First&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date: 05/09/2023 12:23:09&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Viva, malta!&lt;/p&gt;
+&lt;p&gt;I am Natália (at least, that&#39;s how Câmara Municipal do Porto writes my name, and who am I to judge their attempts to portuguese me).&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://nataliia.me/images/natalia-blonde.jpg&quot; alt=&quot;Natália D in a nutshell&quot;&gt;
+  &lt;figcaption&gt;
+    Natália D in a nutshell
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;this picture is a year and a half old, but I don&#39;t change muchThis blog contains posts about:&lt;/p&gt;
+&lt;p&gt;- my new discoveries in Porto and Portugal, tagged #useful&lt;/p&gt;
+&lt;p&gt;- a subsection of these discoveries about cheap and good food, services, or activities, tagged #cheap&lt;/p&gt;
+&lt;p&gt;- rants or more personal posts, tagged #personal&lt;/p&gt;
+&lt;p&gt;- some #travel&lt;/p&gt;
+&lt;p&gt;- for traditional or weird foods: #food, #oqueeisso&lt;/p&gt;
+&lt;p&gt;I am Ukrainian, and I&#39;ve lived here since July 2022. I work for a Portuguese company and plan on starting my own business.
+I speak Portuguese and use it mainly to talk to other dog owners and friends. And I walk my adorable corgi Freyja around Aldoar twice a day.&lt;/p&gt;
+&lt;p&gt;Bem-vindos!&lt;/p&gt;
+</description>
+      <pubDate>Tue, 05 Sep 2023 12:23:09 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/first/</guid>
+    </item>
   </channel>
 </rss>

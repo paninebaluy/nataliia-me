@@ -6,7 +6,7 @@
     "title": "This is Natália",
     "description": "I write about adapting in Portugal.",
     "language": "en",
-    "base": "https://nataliia.me/",
+    "base": "https://nataliia.me/portuguese-toolkit/",
     "author": {
       "name": "Natália D"
     }
@@ -21,7 +21,7 @@
     <atom:link href="{{ permalink | htmlBaseUrl(metadata.base) }}" rel="self" type="application/rss+xml" />
     <description>{{ metadata.description }}</description>
     <language>{{ metadata.language or page.lang }}</language>
-    {%- for post in collections.posts | reverse %}
+    {%- for post in collections.toolkit | reverse %}
     {%- set absolutePostUrl = post.url | htmlBaseUrl(metadata.base) %}
     <item>
       <title>{{ post.data.title }}</title>
