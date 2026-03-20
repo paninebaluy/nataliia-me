@@ -24,6 +24,9 @@ module.exports = function(eleventyConfig) {
         return DateTime.fromJSDate(dateObj).toFormat(format);
     });
 
+    // Copy `images/favicon/` to `_site/`
+    eleventyConfig.addPassthroughCopy({ "images/favicon.png": "/" });
+
     return {
         markdownTemplateEngine: "njk",
         htmlTemplateEngine: "njk",
