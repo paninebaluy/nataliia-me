@@ -11,32 +11,27 @@ Barcelos, Portugal
 
 ---
 
-## Profile
-
+## 🧝‍♀️ Profile
 Product-oriented project manager with 5 years of experience across SaaS, EdTech, Finance, and Web3. PRINCE2-certified and Atlassian-certified. Experienced in both early-stage startups and established corporate environments. Tool-agnostic and fluent in four languages.
 
 ---
 
 ## Skills & Tools
 
-### Project Management
-
+### 🎮 Project Management
 - Agile / Waterfall
 - Scrum, Kanban, Scrumban
 - Risk Management
 
-### Technical Skills
-
+### 👾 Technical Skills
 - JavaScript, Python, SQL
 - Web3
 
-### Content & Learning
-
+### 🧙‍♂️ Content & Learning
 - Content Production
 - Instructional Design
 
-### Tools
-
+### 🛡️ Tools
 - Jira, Confluence, Notion
 - Miro, WordPress, Antora
 - Figma, Canva
@@ -46,9 +41,8 @@ Product-oriented project manager with 5 years of experience across SaaS, EdTech,
 
 ## Professional Experience
 
-### wBrain
+### ✨ wBrain
 PMO | Aug 2025 – Present
-
 - Trained 33 distribution companies on a new financial reporting system within 4 months.
 - Delivered expert-led workshops explaining new reporting logic.
 - Designed and published learning materials and personalized documentation.
@@ -56,9 +50,8 @@ PMO | Aug 2025 – Present
 - Supported adoption and risk mitigation strategies.
 - Collaborated with SAP specialists, financial, and business stakeholders.
 
-### Code for All_
+### 🧩 Code for All_
 Educational Content Producer | Mar 2023 – Sep 2024
-
 - Transformed business requirements into the company’s first Full-Stack Programming Course.
 - Coordinated multichannel content for a 25-week curriculum.
 - Managed dependencies and tracked progress across teams.
@@ -66,15 +59,14 @@ Educational Content Producer | Mar 2023 – Sep 2024
 - Automated workflows by migrating content production to GitHub.
 - Led process improvements and documentation.
 
-### Uploadcare
+### 🎯 Uploadcare
 Content Producer | Dec 2021 – Sep 2022
-
 - Created product pages, guides, articles, and technical documentation.
 - Published 50+ content pieces in collaboration with Product and Ops.
 - Established company-wide content guidelines.
 - Developed style guides and workflows.
 
-### TripleTen
+### 🧠 TripleTen
 Project Manager & Content Producer | Apr 2020 – Sep 2021
 
 - Developed a Web Development course from business requirements.
@@ -83,7 +75,7 @@ Project Manager & Content Producer | Apr 2020 – Sep 2021
 - Coordinated a 10-month curriculum production cycle.
 - Improved processes and documentation.
 
-### Yandex
+### 🔮 Yandex
 Back-Office Project Manager | Feb 2016 – Jan 2018
 
 - Migrated a back-office product from Oracle to MySQL within 6 months.
@@ -92,13 +84,10 @@ Back-Office Project Manager | Feb 2016 – Jan 2018
 - Ensured usability and alignment with business needs.
 
 ## Education
-
 - **BBA in Marketing**
 International Christian University – Kyiv | 2003–2008
-
 - **Web Development Specialist**
 TripleTen Bootcamp | 2019–2020
-
 - **Web3 Academic Course**
 University of Nicosia | 2025
 
@@ -113,7 +102,7 @@ University of Nicosia | 2025
 
 ---
 
-## 🌍 Language Skills
+## 🗺️ Language Skills
 
 - **Ukrainian:** Native   
 - **English:** C2  
