@@ -5,92 +5,111 @@ title: "Natália Dolgushyna's CV"
 
 # Natália Dolgushyna
 
-Porto, Portugal  
+Barcelos, Portugal  
 📧 [nataliia.dolgushyna@gmail.com](mailto:nataliia.dolgushyna@gmail.com)  
-🌐 [https://nataliia.me](https://nataliia.me)
-
-Content manager, producer and project manager with over 10 years of experience in educational content production, editing, SEO, and programming within fast-growing B2B SaaS startups and EdTech. Atlassian-certified and Web3-educated.
+🌐 [LinkedIn](https://www.linkedin.com/in/ndolgushina/)
 
 ---
 
-## 🛠️ Skills
+## Profile
 
-- **Agile Project Management**, SDLC, Stakeholder Management, Problem Analysis and Resolution  
-- **Tools:** Confluence, Jira, Notion, Miro, Antora, WordPress, Canva, Figma, GitHub  
-- **Tech:** JavaScript, Python, SQL  
-- **Marketing & Analytics:** Hubspot, Google Analytics  
-- **Crypto/Web3:** NFTs, Crypto Trading  
-- **Soft Skills:** Excellent Communication, Cross-functional Collaboration
+Product-oriented project manager with 5 years of experience across SaaS, EdTech, Finance, and Web3. PRINCE2-certified and Atlassian-certified. Experienced in both early-stage startups and established corporate environments. Tool-agnostic and fluent in four languages.
 
 ---
 
-## 💼 Professional Experience
+## Skills & Tools
 
-### **Educational Content Producer**  
-**Code for All** | Mar 2023 – Sep 2024  
-- Delivered company’s first Full-Stack Online Programming Course with stakeholders and SMEs. 
-- Coordinated content creation across platforms: Antora, GitHub, GitHub Classroom.
-- Automated content workflows using GitHub.
-- Led internal documentation and process improvements.
+### Project Management
 
-### **Project Manager**  
-**Helping to Leave** | Oct 2022 – Feb 2023  
-- Coordinated humanitarian rescue operations, evacuating 200+ individuals.
-- Managed communication with local officials and volunteers.
+- Agile / Waterfall
+- Scrum, Kanban, Scrumban
+- Risk Management
 
-### **Content Producer**  
-**Uploadcare** | Dec 2021 – Sep 2022  
-- Created 50+ product-focused content items: docs, guides, product pages.
-- Developed content guidelines and tested new product releases.
-- Collaborated cross-functionally with Product and Ops.
+### Technical Skills
 
-### **Production Team Lead**  
-**TripleTen** | Apr 2020 – Sep 2021  
-- Managed global remote team across 14 time zones.
-- Led the creation of a 10-month Web Development Curriculum.
-- Collaborated with cross-functional teams: Product, Design, LXD, Tech.
-- Optimized production processes and documentation.
+- JavaScript, Python, SQL
+- Web3
 
-### **Project & Partner Relations Manager**  
-**Yandex, Yandex.Ukraine** | Feb 2010 – Jan 2020  
-- Led partner communication and internal tool implementation.
-- Analyzed complex problems, supported scaling, led user education.
-- Directed internal projects, seminars, and campaigns.
+### Content & Learning
+
+- Content Production
+- Instructional Design
+
+### Tools
+
+- Jira, Confluence, Notion
+- Miro, WordPress, Antora
+- Figma, Canva
+- HubSpot, Google Analytics
 
 ---
 
-## 🎓 Education
+## Professional Experience
 
-**BBA in Marketing**  
-International Christian University – Kyiv, Ukraine | *2003–2008*  
-- Courses in marketing research, best practices, and business development  
-- Delivered entirely in English  
+### wBrain
+PMO | Aug 2025 – Present
 
-**Web Development Specialist**  
-TripleTen Bootcamp | *2019–2020*  
-- Figma design, frontend with HTML/CSS/JS  
-- NodeJS, ExpressJS, MongoDB  
+- Trained 33 distribution companies on a new financial reporting system within 4 months.
+- Delivered expert-led workshops explaining new reporting logic.
+- Designed and published learning materials and personalized documentation.
+- Managed execution and support phases of the project.
+- Supported adoption and risk mitigation strategies.
+- Collaborated with SAP specialists, financial, and business stakeholders.
 
-**Web3 Academic Course**  
-University of Nicosia | *2025*  
-- Top student with honors  
-- Topics: Blockchain, DeFi, NFTs, Metaverse, CBDCs
+### Code for All_
+Educational Content Producer | Mar 2023 – Sep 2024
+
+- Transformed business requirements into the company’s first Full-Stack Programming Course.
+- Coordinated multichannel content for a 25-week curriculum.
+- Managed dependencies and tracked progress across teams.
+- Delivered training using Antora, GitHub Classroom, and GitHub tools.
+- Automated workflows by migrating content production to GitHub.
+- Led process improvements and documentation.
+
+### Uploadcare
+Content Producer | Dec 2021 – Sep 2022
+
+- Created product pages, guides, articles, and technical documentation.
+- Published 50+ content pieces in collaboration with Product and Ops.
+- Established company-wide content guidelines.
+- Developed style guides and workflows.
+
+### TripleTen
+Project Manager & Content Producer | Apr 2020 – Sep 2021
+
+- Developed a Web Development course from business requirements.
+- Led a distributed team across 14 time zones.
+- Managed cross-functional collaboration (product, design, LXD, engineering).
+- Coordinated a 10-month curriculum production cycle.
+- Improved processes and documentation.
+
+### Yandex
+Back-Office Project Manager | Feb 2016 – Jan 2018
+
+- Migrated a back-office product from Oracle to MySQL within 6 months.
+- Collaborated with engineering on new feature development.
+- Managed stakeholder communication and project progress.
+- Ensured usability and alignment with business needs.
+
+## Education
+
+- **BBA in Marketing**
+International Christian University – Kyiv | 2003–2008
+
+- **Web Development Specialist**
+TripleTen Bootcamp | 2019–2020
+
+- **Web3 Academic Course**
+University of Nicosia | 2025
 
 ---
 
 ## 📜 Certifications
 
-### **Atlassian Certified (2025)**
-- [Confluence Essentials](https://cp.certmetrics.com/atlassian/en/public/verify/credential/27a175fee9d24aedb20d7b2368172291)  
-- [Jira Software Essentials](https://cp.certmetrics.com/atlassian/en/public/verify/credential/cb77b9df44b442009da490a67732eb30)
-
-### **Instructional Designer Certificate**  
-LinkedIn Learning | *2023*  
-- [Certificate](https://www.linkedin.com/learning/certificates/301c21d025252ca45341b655a72064372f958b02a767f68422dc199ab769aa2b)
-
-### **Agile Scrum Fundamentals**  
-Udemy | *2020*  
-- [Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-6d6f538d-79fd-4e97-9de0-bfaf3510d3b0.jpg)
+- [PRINCE2® 7 Foundation – PeopleCert (2026)](https://www.linkedin.com/in/ndolgushina/overlay/Certifications/2086108045/treasury/?profileId=ACoAAAHVGfcBcpAKwxw_vAPHqROK0W2rahWNH7M)
+- [Atlassian Certified: Jira Software Essentials (2025)](https://cp.certmetrics.com/atlassian/en/public/verify/credential/cb77b9df44b442009da490a67732eb30)
+- [Atlassian Certified: Confluence Essentials (2025)](https://cp.certmetrics.com/atlassian/en/public/verify/credential/27a175fee9d24aedb20d7b2368172291)
+- [Instructional Design – LinkedIn Learning (2023)](https://www.linkedin.com/learning/certificates/301c21d025252ca45341b655a72064372f958b02a767f68422dc199ab769aa2b)
 
 ---
 
@@ -98,6 +117,6 @@ Udemy | *2020*
 
 - **Ukrainian:** Native   
 - **English:** C2  
-- **Portuguese:** C1  
+- **Portuguese:** C1 
 - **German:** B1
 - **Russian:** Native 
