@@ -96,6 +96,7 @@ University of Nicosia | 2025
 ## 📜 Certifications
 
 - [PRINCE2® 7 Foundation – PeopleCert (2026)](https://www.linkedin.com/in/ndolgushina/overlay/Certifications/2086108045/treasury/?profileId=ACoAAAHVGfcBcpAKwxw_vAPHqROK0W2rahWNH7M)
+- [Scrum Master Certified - Scrum Alliance (2026)](https://certification.scrumalliance.org/accounts/1822011-nataliia-dolgushyna/certifications/2180834-csm)
 - [Atlassian Certified: Jira Software Essentials (2025)](https://cp.certmetrics.com/atlassian/en/public/verify/credential/cb77b9df44b442009da490a67732eb30)
 - [Atlassian Certified: Confluence Essentials (2025)](https://cp.certmetrics.com/atlassian/en/public/verify/credential/27a175fee9d24aedb20d7b2368172291)
 - [Instructional Design – LinkedIn Learning (2023)](https://www.linkedin.com/learning/certificates/301c21d025252ca45341b655a72064372f958b02a767f68422dc199ab769aa2b)
