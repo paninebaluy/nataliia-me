@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>IRS</title>
+  <link rel="icon" type="image/png" href="/favicon.png">
+
+  <style>
+    @font-face {
+      font-family: 'Cutive Mono';
+      src:
+        local("Cutive Mono"),
+        url("../vendor/fonts/Cutive_Mono/CutiveMono-Regular.woff2") format("woff2"),
+        url("../vendor/fonts/Cutive_Mono/CutiveMono-Regular.woff") format("woff"),
+        url("../vendor/fonts/Cutive_Mono/CutiveMono-Regular.ttf") format("truetype"),
+        url("../vendor/fonts/Cutive_Mono/CutiveMono-Regular.otf") format("opentype");
+      font-weight: normal;
+      font-style: normal;
+    }
+
+    @font-face {
+      font-family: 'Cutive Regular';
+      src:
+        local("Cutive Regular"),
+        url("../vendor/fonts/Cutive/Cutive-Regular.woff2") format("woff2"),
+        url("../vendor/fonts/Cutive/Cutive-Regular.woff") format("woff"),
+        url("../vendor/fonts/Cutive/Cutive-Regular.ttf") format("truetype"),
+        url("../vendor/fonts/Cutive/Cutive-Regular.otf") format("opentype");
+      font-weight: normal;
+      font-style: normal;
+    }
+
+    body {
+      font-family: 'Cutive Regular', sans-serif;
+      margin: 0;
+      padding: 2rem;
+      background-color: #fff;
+      color: #222;
+      line-height: 1.6;
+    }
+
+    nav {
+      font-family: 'Cutive Mono', monospace;
+      margin: 0;
+      padding: 2rem;
+      background-color: #fff;
+      color: #222;
+      line-height: 1.6;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1rem 0;
+    }
+
+    figure {
+      margin: 2rem 0;
+      text-align: center;
+    }
+
+    figcaption {
+      font-size: 0.9em;
+      color: #666;
+      margin-top: 0.5rem;
+    }
+
+    main {
+      max-width: 800px;
+      margin: auto;
+    }
+
+  </style>
+
+  <script>
+    // open all links in new tabs (except anchor and relative links)
+    document.addEventListener('DOMContentLoaded', () => {
+      document.querySelectorAll('a[href]').forEach(link => {
+        const href = link.getAttribute('href');
+        if (
+          href.startsWith('http') &&
+          !href.startsWith(window.location.origin)
+        ) {
+          link.setAttribute('target', '_blank');
+          link.setAttribute('rel', 'noopener noreferrer');
+        }
+      });
+    });
+  </script>
+
+</head>
+<body>
+  <nav>
+    <a href="/">🏠 Home</a> | <a href="/portuguese-toolkit/">The Portuguese Toolkit</a>
+  </nav>
+  <main>
+    <h1>IRS</h1>
+<p><strong>Date: 01/01/2020 10:30:07</strong></p>
+<p>Have you submitted your IRS declaration this year already?</p>
+<p>The term to do that started yesterday and ends on June 30. I’ve submitted mine today. Last year, I received some money back in about a month (that I spent on my divorce, haha). This year, working as an independent contractor again, I will actually owe some money.</p>
+<figure>
+  <img src="../../images/pond.png" alt="A decorative pond in my neighbourhood park">
+  <figcaption>
+    Pic unrelated: A decorative pond in my neighbourhood park.
+  </figcaption> 
+</figure>
+<p>An article I use every year to look up how navigate the non-user-friendly system is this one: <a href="https://www.deco.proteste.pt/dinheiro/impostos/dicas/irs-ajudamos-preencher-passo-a-passo" title="DECO PROteste">https://www.deco.proteste.pt/dinheiro/impostos/dicas/irs-ajudamos-preencher-passo-a-passo</a>.</p>
+<p>Saved my hide twice already, as my income is usually uncomplicated and hardly requires an accountant.</p>
+<p>This year, in addition to <em>Anexo B</em> (for independent contractors), I had to fill out <em>Anexo SS</em> as well. Despite the suspicious abbreviation, it has nothing in common with snakes or last-century Germany, but stands for Segurança Social that I’ve been paying contributions to all year.</p>
+<p>By the way, this blog now finally has RSS support: <a href="https://www.nataliia.me/feed.xml">https://www.nataliia.me/feed.xml</a>.</p>
+
+  </main>
+  <nav>
+    <a href="/">🏠 Home</a> | <a href="/portuguese-toolkit/">The Portuguese Toolkit</a>
+  </nav>
+
+  <script src="https://giscus.app/client.js"
+        data-repo="paninebaluy/nataliia-me"
+        data-repo-id="R_kgDOMt51iQ"
+        data-category-id="DIC_kwDOMt51ic4Cs05T"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+
+        document.addEventListener('DOMContentLoaded', () => {
+        document.querySelectorAll('a[href]').forEach(link => {
+          const href = link.getAttribute('href');
+          if (
+            href.startsWith('http') &&
+            !href.startsWith(window.location.origin)
+          ) {
+            link.setAttribute('target', '_blank');
+            link.setAttribute('rel', 'noopener noreferrer');
+          }
+        });
+      });
+  </script>
+</body>
+</html>
