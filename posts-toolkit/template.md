@@ -2,7 +2,7 @@
 layout: layouts/post-pt.njk
 title: ""
 date: 2020-01-01T10:30:07
-tags: -toolkit-
+tags: toolkit
 permalink: "/blog/{{ title | slug }}/"
 ---
 

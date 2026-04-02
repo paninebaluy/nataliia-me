@@ -7,6 +7,28 @@
     <description>I write about adapting in Portugal.</description>
     <language>en</language>
     <item>
+      <title>IRS</title>
+      <link>https://nataliia.me/blog/irs/</link>
+      <description>&lt;h1&gt;IRS&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date: 02/04/2026 17:23:07&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Have you submitted your IRS declaration this year already?&lt;/p&gt;
+&lt;p&gt;The term to do that started yesterday and ends on June 30. I’ve submitted mine today. Last year, I received some money back in about a month (that I spent on my divorce, haha). This year, working as an independent contractor again, I will actually owe some money.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://nataliia.me/images/pond.png&quot; alt=&quot;A decorative pond in my neighbourhood park&quot;&gt;
+  &lt;figcaption&gt;
+    Pic unrelated: A decorative pond in my neighbourhood park.
+  &lt;/figcaption&gt; 
+&lt;/figure&gt;
+&lt;p&gt;An article I use every year to look up how navigate the non-user-friendly system is this one: &lt;a href=&quot;https://www.deco.proteste.pt/dinheiro/impostos/dicas/irs-ajudamos-preencher-passo-a-passo&quot; title=&quot;DECO PROteste&quot;&gt;https://www.deco.proteste.pt/dinheiro/impostos/dicas/irs-ajudamos-preencher-passo-a-passo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Saved my hide twice already, as my income is usually uncomplicated and hardly requires an accountant.&lt;/p&gt;
+&lt;p&gt;This year, in addition to &lt;em&gt;Anexo B&lt;/em&gt; (for independent contractors), I had to fill out &lt;em&gt;Anexo SS&lt;/em&gt; as well. Despite the suspicious abbreviation, it has nothing in common with snakes or last-century Germany, but stands for Segurança Social that I’ve been paying contributions to all year.&lt;/p&gt;
+&lt;p&gt;By the way, this blog now finally has RSS support: &lt;a href=&quot;https://www.nataliia.me/feed.xml&quot;&gt;https://www.nataliia.me/feed.xml&lt;/a&gt;.&lt;/p&gt;
+</description>
+      <pubDate>Thu, 02 Apr 2026 17:23:07 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/irs/</guid>
+    </item>
+    <item>
       <title>A Vida Pacata</title>
       <link>https://nataliia.me/blog/a-vida-pacata/</link>
       <description>&lt;h1&gt;A Vida Pacata&lt;/h1&gt;
@@ -737,6 +759,21 @@ I speak Portuguese and use it mainly to talk to other dog owners and friends. An
       <pubDate>Tue, 05 Sep 2023 12:23:09 GMT</pubDate>
       <dc:creator>Natália D</dc:creator>
       <guid>https://nataliia.me/blog/first/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://nataliia.me/blog/</link>
+      <description>&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Date: 01/01/2020 10:30:07&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Welcome to my new blog! This post has both a date and a time.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://nataliia.me/images/&quot; alt=&quot;&quot;&gt;
+  &lt;figcaption&gt;
+  &lt;/figcaption&gt; 
+&lt;/figure&gt;</description>
+      <pubDate>Wed, 01 Jan 2020 10:30:07 GMT</pubDate>
+      <dc:creator>Natália D</dc:creator>
+      <guid>https://nataliia.me/blog/</guid>
     </item>
   </channel>
 </rss>
