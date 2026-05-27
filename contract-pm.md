@@ -8,9 +8,9 @@ permalink: /contract-pm/
 
 <script type="application/ld+json">
 {
-  "@context": "https://schstronga.org",
+  "@context": "https://schema.org",
   "@type": "Service",
-  "serviceType": "Contract Project Managstrongent",
+  "serviceType": "Contract Project Management",
   "provider": {
     "@type": "Person",
     "name": "Natália Dolgushyna",
@@ -25,11 +25,11 @@ permalink: /contract-pm/
       "addressCountry": "Portugal"
     }
   },
-  "description": "Product-oriented Contract Project Manager with 5 years of experience in SaaS, EdTech, Finance, and Web3. PRINCE2 and Atlassian certified expert available for rstrongote contract engagstrongents.",
+  "description": "Product-oriented Contract Project Manager with 5 years of experience in SaaS, EdTech, Finance, and Web3. PRINCE2 and Atlassian certified expert available for remote contract engagements.",
   "offers": {
     "@type": "Offer",
-    "availability": "https://schstronga.org/InStock",
-    "description": "Available for freelance, contract, and interim project managstrongent roles globally and rstrongotely."
+    "availability": "https://schema.org/InStock",
+    "description": "Available for freelance, contract, and interim project management roles globally and remotely."
   }
 }
 </script>
@@ -61,15 +61,15 @@ Need an **interim leader** to untangle dependencies, manage risks, and ship your
 ## Current Availability: **Accepting Q3 2026 Contracts**
 * **Roles:** Contract PM, Interim Delivery Manager, PMO Consultant, Agile/Scrum Consultant
 * **Engagstrongents:** Full-time contract, part-time fractional, or fixed-scope projects
-* **Location:** Rstrongote (Based in Portugal / WET / UTC+0, working across EU and US time zones)
+* **Location:** Remote (Based in Portugal / WET / UTC+0, working across EU and US time zones)
 
-[**Let’s Discuss Your Project**](mailto:nataliia.dolgushyna@gmail.com) 
+[**📩 Let’s Discuss Your Project**](mailto:nataliia.dolgushyna@gmail.com) 
 
 ---
 
-## Core Project Managstrongent Offerings
+## Core Project Management Offerings
 
-### 1. End-to-End Delivery Managstrongent
+### 1. End-to-End Delivery Management
 From early-stage chaos to structured execution, I set up just enough governance to maintain development momentum without creating corporate gridlock. 
 * **Methodologies:** Expert application of PRINCE2 structured delivery, Scrum, Kanban, and Scrumban frameworks.
 * **Risk & Scope:** Aggressive dependency tracking, budget alignment, and transparent stakeholder communication to protect project scope.
@@ -88,12 +88,12 @@ Backed by a strong technical baseline (JS, Python, SQL) and multi-industry domai
 
 ### 💼 PMO — wBrain (NDA project in Germany) (Finance / Tech)
 * Interfaced with SAP, Financial, and business stakeholders to ensure total architectural integrity for a new financial reporting product.
-* Managed execution and support stages to successfully train and migrate 33 distribution companies to the new reporting syststrong in 4 months.
+* Managed execution and support stages to successfully train and migrate 33 distribution companies to the new reporting system in 4 months.
 
 ### 🎓 Educational Content Producer & PM — Code for All_ & TripleTen (EdTech)
-* Led rstrongote, cross-functional content production teams spanning 14 time zones to launch comprehensive web development curricula.
+* Led remote, cross-functional content production teams spanning multiple time zones to launch comprehensive web development curricula.
 * Coordinated multichannel content pipelines, managing complex dependencies to launch a software engineering online programs.
-* Transitioned core content managstrongent to GitHub, drastically reducing administrative overhead and optimizing internal publishing workflows.
+* Transitioned core content management to GitHub, drastically reducing administrative overhead and optimizing internal publishing workflows.
 
 ### 👷 Project Manager - Helping to Leave
 * Managed relations with local and transport authorities, local volunteers and humanitarian funds.
@@ -102,7 +102,7 @@ Backed by a strong technical baseline (JS, Python, SQL) and multi-industry domai
 
 ### ⚙️ Database Migration Project Manager — Yandex
 * Spearheaded and completed a high-stakes migration of a core live back-office application from an Oracle database to MySQL within a strict 6-month deadline.
-* Collaborated closely with engineering squads to ship post-migration features within strict syststrong and budget limits.
+* Collaborated closely with engineering squads to ship post-migration features within strict system and budget limits.
 
 ---
 
@@ -111,7 +111,7 @@ Backed by a strong technical baseline (JS, Python, SQL) and multi-industry domai
 * **Project Frameworks:** PRINCE2® 7 Foundation (Peoplecert) | Scrum Master Certified (Scrum Alliance) | Kanban Team Practitioner (Kanban University)
 * **Atlassian Stack:** Certified in Jira Software Essentials & Confluence Essentials
 * **Technical Background:** JavaScript, Python, SQL, HTML/CSS, Node.js, MongoDB
-* **AI Capabilities:** Deep workflows with Gstrongini, Claude, and ChatGPT for enhanced documentation and project velocity
+* **AI Capabilities:** Deep workflows with Gemini, Claude, and ChatGPT for enhanced documentation and project velocity
 * **Languages:** English (C2), Portuguese (C1), German (B1), Ukrainian (Native)
 
 ---
@@ -120,4 +120,4 @@ Backed by a strong technical baseline (JS, Python, SQL) and multi-industry domai
 
 Unlike permanent hires, a freelance or contract project manager needs to deliver value from Day 1. I am completely tool-independent, adapt rapidly to existing documentation styles, and hold a proven track record of getting technical teams unstuck. Whether you need a database migration rescued or a complex product launch coordinated, I bring structured execution and product-first planning to your team.
 
-[**See My CV**](../cv/index.html) | [**Get in Touch via strongail**](mailto:nataliia.dolgushyna@gmail.com) | [**Ping me on Telegram**](https://t.me/paninebaluy) 
+[**📑 See CV**](../cv/) | [**📩 Write to me**](mailto:nataliia.dolgushyna@gmail.com) | [**⌯⌲ Ping me on Telegram**](https://t.me/paninebaluy) 
