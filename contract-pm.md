@@ -60,7 +60,7 @@ Need an **interim leader** to untangle dependencies, manage risks, and ship your
 
 ## Current Availability: **Accepting Q3 2026 Contracts**
 * **Roles:** Contract PM, Interim Delivery Manager, PMO Consultant, Agile/Scrum Consultant
-* **Engagstrongents:** Full-time contract, part-time fractional, or fixed-scope projects
+* **Engagements:** Full-time contract, part-time fractional, or fixed-scope projects
 * **Location:** Remote (Based in Portugal / WET / UTC+0, working across EU and US time zones)
 
 [**📩 Let’s Discuss Your Project**](mailto:nataliia.dolgushyna@gmail.com) 
@@ -75,12 +75,12 @@ From early-stage chaos to structured execution, I set up just enough governance 
 * **Risk & Scope:** Aggressive dependency tracking, budget alignment, and transparent stakeholder communication to protect project scope.
 
 ### 2. Tooling & Workflow Optimization (Atlassian Specialist)
-As an Atlassian-certified specialist, I don't just use tools—I build efficient delivery ecosyststrongs.
-* **Jira & Confluence Architecture:** Advanced task lifecycle design, permission managstrongent, and knowledge managstrongent setup.
+As an Atlassian-certified specialist, I don't just use tools—I build efficient delivery ecosystems.
+* **Jira & Confluence Architecture:** Advanced task lifecycle design, permission management, and knowledge management setup.
 * **Workflow Automation:** Migrating internal processes to modern tech stacks (e.g., GitHub, Notion) to drive team efficiency and clear accountability.
 
 ### 3. Technical & Cross-Functional Alignment
-Backed by a strong technical baseline (JS, Python, SQL) and multi-industry domain knowledge, I bridge the gap between technical engineering teams, business layers, and C-suite stakeholders.
+I am backed by a strong technical baseline (JS, Python, SQL, Mongo, Java - whatever is your fancy) and multi-industry domain knowledge, and I bridge the gap between technical engineering teams, business layers, and C-suite stakeholders.
 
 ---
 

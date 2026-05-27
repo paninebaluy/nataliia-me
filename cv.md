@@ -1,9 +1,11 @@
 ---
-layout: layouts/base.njk
+layout: layouts/prof.njk
 title: "Natália Dolgushyna's CV"
 ---
 
-# Natália Dolgushyna
+# Natália Dolgushyna, Project Manager
+
+**[✨Hire me for your project✨](/contract-pm/)**
 
 Barcelos, Portugal  
 📧 [nataliia.dolgushyna@gmail.com](mailto:nataliia.dolgushyna@gmail.com)  
@@ -12,7 +14,7 @@ Barcelos, Portugal
 ---
 
 ## 🧝‍♀️ Profile
-Product-oriented project manager with 5 years of experience across SaaS, EdTech, Finance, and Web3. PRINCE2-certified and Atlassian-certified. Experienced in both early-stage startups and established corporate environments. Tool-agnostic and fluent in four languages.
+**Product-oriented project manager** with 5 years of experience across SaaS, EdTech, Finance, and Web3. PRINCE2-certified and Atlassian-certified. Experienced in both early-stage startups and established corporate environments. Tool-agnostic and fluent in four languages.
 
 ---
 
@@ -59,6 +61,11 @@ Educational Content Producer | Mar 2023 – Sep 2024
 - Automated workflows by migrating content production to GitHub.
 - Led process improvements and documentation.
 
+### Helping to Leave
+Project Manager | Oct 2022 - Feb 2023
+- I used my project management and human interaction skills to lead human rescue and humanitarian efforts in Kherson.
+- Interacted with drivers, volunteers, and local officials to ensure human evacuation continued daily.
+
 ### 🎯 Uploadcare
 Content Producer | Dec 2021 – Sep 2022
 - Created product pages, guides, articles, and technical documentation.
@@ -82,6 +89,14 @@ Back-Office Project Manager | Feb 2016 – Jan 2018
 - Collaborated with engineering on new feature development.
 - Managed stakeholder communication and project progress.
 - Ensured usability and alignment with business needs.
+
+### 🔮 Yandex and Yandex.Ukraine 
+Partner Relations Manager | Feb 2010 - Jan 2020
+- Coordinated service-related communication with service partners.
+- Closely cooperated with developers.
+- Writing and delivering internal documentation.
+- Created and oversaw email campaigns.
+- Participated in development of back-office instruments as a product owner. 
 
 ## Education
 - **BBA in Marketing**
