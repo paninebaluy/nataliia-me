@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>{{ title or "This is Natália" }}</title>
+  <link rel="icon" type="image/png" href="/favicon.png">
+
+  <style>
+    @font-face {
+      font-family: 'Cutive Regular';
+      src:
+        local("Cutive Regular"),
+        url("../vendor/fonts/Cutive_Mono/-Regular.woff2") format("woff2"),
+        url("../vendor/fonts/Cutive_Mono/Cutive-Regular.woff") format("woff"),
+        url("../vendor/fonts/Cutive_Mono/Cutive-Regular.ttf") format("truetype"),
+        url("../vendor/fonts/Cutive_Mono/Cutive-Regular.otf") format("opentype");
+      font-weight: normal;
+      font-style: normal;
+    }
+
+    body {
+      font-family: 'Cutive Mono', monospace;
+      margin: 0;
+      padding: 2rem;
+      background-color: #fff;
+      color: #222;
+      line-height: 1.6;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1rem 0;
+    }
+
+    figure {
+      margin: 2rem 0;
+      text-align: center;
+    }
+
+    figcaption {
+      font-size: 0.9em;
+      color: #666;
+      margin-top: 0.5rem;
+    }
+
+    main {
+      max-width: 800px;
+      margin: auto;
+    }
+
+    td, th {
+      border: none;
+    }
+
+  td {
+    width: 40%;
+    padding: 0 20px 0 20px;
+  }
+</style>
+
+  </style>
+
+  <script>
+    // open all links in new tabs (except anchor and relative links)
+    document.addEventListener('DOMContentLoaded', () => {
+      document.querySelectorAll('a[href]').forEach(link => {
+        const href = link.getAttribute('href');
+        if (
+          href.startsWith('http') &&
+          !href.startsWith(window.location.origin)
+        ) {
+          link.setAttribute('target', '_blank');
+          link.setAttribute('rel', 'noopener noreferrer');
+        }
+      });
+    });
+  </script>
+
+</head>
+<body>
+  <nav>
+      <a href="/">🏠 Home</a>
+  </nav>
+  <main>
+    {{ content | safe }}
+  </main>
+</body>
+</html>
