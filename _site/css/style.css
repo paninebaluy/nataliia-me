@@ -306,7 +306,19 @@ main:has(.main__container:hover) .inner-frame {
     border: none;
 } */
 
+/* hovering on header links */
+
+body:has(#contract-pm:hover) main .filled-square {
+    background: url("../images/ndolgushyna_cosmic_pm.png") no-repeat;
+    background-size: contain;
+}
+
 /* hovering on list items */
+
+main:has(#medium-en:hover) .filled-square {
+    background: url("../images/medium-en.png") no-repeat;
+    background-size: contain;
+}
 
 main:has(#medium-pt:hover) .filled-square {
     background: url("../images/medium-pt.png") no-repeat;
@@ -334,6 +346,11 @@ main:has(#freyja:hover) .filled-square {
 
 main:has(#portfolio:hover) .filled-square {
     background: url("../images/behance.png") no-repeat;
+    background-size: contain;
+}
+
+main:has(#beealive:hover) .filled-square {
+    background: url("../images/beealive.png") no-repeat;
     background-size: contain;
 }
 
