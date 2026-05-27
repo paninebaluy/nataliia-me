@@ -59,7 +59,7 @@ html {
 
 .header__link {
     text-decoration: none;
-    color: black;
+    color: #c90076;
     transition: text-decoration 0.5s 1s linear;
 }
 
@@ -252,7 +252,7 @@ html {
 }
 
 .footer__link {
-    color: black;
+    color: #c90076;
     cursor: pointer;
 }
 
