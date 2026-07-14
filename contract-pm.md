@@ -58,7 +58,7 @@ Need an **interim leader** to untangle dependencies, manage risks, and ship your
 
 ---
 
-## Current Availability: **Accepting Q3 2026 Contracts**
+## Current Availability: **Accepting Q2 2027 Contracts**
 * **Roles:** Contract PM, Interim Delivery Manager, PMO Consultant, Agile/Scrum Consultant
 * **Engagements:** Full-time contract, part-time fractional, or fixed-scope projects
 * **Location:** Remote (Based in Portugal / WET / UTC+0, working across EU and US time zones)
