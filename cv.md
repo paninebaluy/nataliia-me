@@ -82,22 +82,6 @@ Project Manager & Content Producer | Apr 2020 – Sep 2021
 - Coordinated a 10-month curriculum production cycle.
 - Improved processes and documentation.
 
-### 🔮 Yandex
-Back-Office Project Manager | Feb 2016 – Jan 2018
-
-- Migrated a back-office product from Oracle to MySQL within 6 months.
-- Collaborated with engineering on new feature development.
-- Managed stakeholder communication and project progress.
-- Ensured usability and alignment with business needs.
-
-### 🔮 Yandex and Yandex.Ukraine 
-Partner Relations Manager | Feb 2010 - Jan 2020
-- Coordinated service-related communication with service partners.
-- Closely cooperated with developers.
-- Writing and delivering internal documentation.
-- Created and oversaw email campaigns.
-- Participated in development of back-office instruments as a product owner. 
-
 ## Education
 - **BBA in Marketing**
 International Christian University – Kyiv | 2003–2008
